@@ -15,7 +15,7 @@ We engineer nucleic acids into crystalline, topological, electronic, and inorgan
 :::
 
 ::: {.hero-art}
-![Replace this with your own lab image](assets/images/hero-placeholder.svg)
+![](assets/images/hero.jpg)
 :::
 :::
 
