@@ -1,0 +1,12 @@
+---
+title: "People"
+---
+
+Add portraits, roles, short research descriptions, and links for lab members. Alumni can live in a separate section below the current team.
+
+## Principal Investigator
+Simon Vecchioni — biography and research interests.
+
+## Group Members
+Member cards will go here.
+

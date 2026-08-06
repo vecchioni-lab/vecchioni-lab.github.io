@@ -1,0 +1,20 @@
+project:
+  type: website
+  output-dir: docs
+website:
+  title: "Vecchioni Lab"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - research.qmd
+      - publications.qmd
+      - people.qmd
+      - tools.qmd
+      - news.qmd
+      - join.qmd
+      - contact.qmd
+format:
+  html:
+    css: assets/style.css
+    theme: none

@@ -1,0 +1,15 @@
+---
+title: "Research"
+---
+
+Our work connects nucleic-acid design, crystallography, coordination chemistry, topology, and functional materials.
+
+## DNA Crystal Engineering
+Add a concise description of this research programme, its central questions, and representative results.
+
+## Metal-Mediated Nucleic Acids
+Add the metal-mediated nucleic-acid programme here.
+
+## Topological Materials
+Add your work on topology and interpenetrated molecular frameworks here.
+

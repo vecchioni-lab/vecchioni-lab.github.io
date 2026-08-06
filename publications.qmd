@@ -1,0 +1,9 @@
+---
+title: "Publications"
+---
+
+This page can later be generated from a BibTeX file. For launch, add selected publications manually with DOI and PDF links.
+
+## Selected publications
+**Publication title.** Authors. *Journal* year. DOI.
+

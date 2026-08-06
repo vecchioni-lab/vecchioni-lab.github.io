@@ -1,0 +1,5 @@
+---
+title: "Home"
+---
+
+The launch homepage is currently maintained in `docs/index.html` so it works immediately.
