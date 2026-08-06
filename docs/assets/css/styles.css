@@ -277,3 +277,11 @@ body {
 #title-block-header {
   display: none;
 }
+
+/* Make homepage hero span the full browser width */
+.concept-hero {
+  width: 100vw;
+  max-width: none;
+  margin-left: calc(50% - 50vw);
+  margin-right: calc(50% - 50vw);
+}
