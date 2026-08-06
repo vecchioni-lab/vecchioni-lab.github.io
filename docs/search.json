@@ -1,0 +1,198 @@
+[
+  {
+    "objectID": "people.html",
+    "href": "people.html",
+    "title": "People",
+    "section": "",
+    "text": "Add photograph, biography, links, and contact details here."
+  },
+  {
+    "objectID": "people.html#principal-investigator",
+    "href": "people.html#principal-investigator",
+    "title": "People",
+    "section": "",
+    "text": "Add photograph, biography, links, and contact details here."
+  },
+  {
+    "objectID": "people.html#researchers",
+    "href": "people.html#researchers",
+    "title": "People",
+    "section": "Researchers",
+    "text": "Researchers\nDuplicate a simple person block for each member:\n\nName\nRole\nOne or two sentences about research interests."
+  },
+  {
+    "objectID": "people.html#alumni",
+    "href": "people.html#alumni",
+    "title": "People",
+    "section": "Alumni",
+    "text": "Alumni\nAdd former members here as the group grows."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Vecchioni Lab",
+    "section": "",
+    "text": "IMPERIAL COLLEGE LONDON · DEPARTMENT OF LIFE SCIENCES\n\n\n\n\n\n\nWe engineer nucleic acids into crystalline, topological, electronic, and inorganic materials.\nExplore our research →"
+  },
+  {
+    "objectID": "index.html#building-the-next-generation-of-materials-from-nucleic-acids",
+    "href": "index.html#building-the-next-generation-of-materials-from-nucleic-acids",
+    "title": "Vecchioni Lab",
+    "section": "Building the next generation of materials from nucleic acids",
+    "text": "Building the next generation of materials from nucleic acids"
+  },
+  {
+    "objectID": "join.html",
+    "href": "join.html",
+    "title": "Join Us",
+    "section": "",
+    "text": "Describe open positions, prospective-student guidance, fellowship opportunities, and what applicants should send."
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "Add the laboratory address, email, institutional profile, and map details here."
+  },
+  {
+    "objectID": "research/metal-mediated-nucleic-acids/index.html",
+    "href": "research/metal-mediated-nucleic-acids/index.html",
+    "title": "Metal-Mediated Nucleic Acids",
+    "section": "",
+    "text": "Replace this text with an accessible introduction to the programme."
+  },
+  {
+    "objectID": "research/metal-mediated-nucleic-acids/index.html#overview",
+    "href": "research/metal-mediated-nucleic-acids/index.html#overview",
+    "title": "Metal-Mediated Nucleic Acids",
+    "section": "",
+    "text": "Replace this text with an accessible introduction to the programme."
+  },
+  {
+    "objectID": "research/metal-mediated-nucleic-acids/index.html#current-directions",
+    "href": "research/metal-mediated-nucleic-acids/index.html#current-directions",
+    "title": "Metal-Mediated Nucleic Acids",
+    "section": "Current directions",
+    "text": "Current directions\n\nMetal-mediated base pairing\nTransmetalation and switching\nMolecular electronics\nStructural and spectroscopic characterization"
+  },
+  {
+    "objectID": "research/metal-mediated-nucleic-acids/index.html#selected-work",
+    "href": "research/metal-mediated-nucleic-acids/index.html#selected-work",
+    "title": "Metal-Mediated Nucleic Acids",
+    "section": "Selected work",
+    "text": "Selected work\nAdd publications and project highlights here."
+  },
+  {
+    "objectID": "research/index.html",
+    "href": "research/index.html",
+    "title": "Research",
+    "section": "",
+    "text": "Each research area below is a separate modular folder. Edit its index.qmd metadata to change the title, subtitle, summary, image, or ordering.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDNA Crystal Engineering\n\n\nProgramming periodic matter from nucleic acids\n\n\nDesign, assembly, topology, and structural analysis of three-dimensional DNA crystals.\n\n\n\n\n\n\n\n\n\n\n\n\nMetal-Mediated Nucleic Acids\n\n\nCoordination chemistry inside programmable biomolecular systems\n\n\nMetal-directed structures, transmetalation, catalysis, and molecular electronic function.\n\n\n\n\n\n\n\n\n\n\n\n\nProgrammable Hybrid Materials\n\n\nTranslating molecular information into inorganic structure\n\n\nDNA-directed mineralization, replication, coating, and fabrication of hybrid materials.\n\n\n\n\n\n\n\n\n\n\n\n\nOrigins and Catalysis\n\n\nMetal–nucleic-acid interactions before modern biology\n\n\nExploring how simple nucleic-acid and metal assemblies could support structure and catalysis.\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "research/origins-and-catalysis/index.html",
+    "href": "research/origins-and-catalysis/index.html",
+    "title": "Origins and Catalysis",
+    "section": "",
+    "text": "Replace this text with the programme narrative."
+  },
+  {
+    "objectID": "research/origins-and-catalysis/index.html#overview",
+    "href": "research/origins-and-catalysis/index.html#overview",
+    "title": "Origins and Catalysis",
+    "section": "",
+    "text": "Replace this text with the programme narrative."
+  },
+  {
+    "objectID": "research/origins-and-catalysis/index.html#current-directions",
+    "href": "research/origins-and-catalysis/index.html#current-directions",
+    "title": "Origins and Catalysis",
+    "section": "Current directions",
+    "text": "Current directions\n\nPrebiotic coordination assemblies\nMetal-dependent catalysis\nEmergent cages and compartments\nChemical evolution of nucleic acids"
+  },
+  {
+    "objectID": "research/origins-and-catalysis/index.html#selected-work",
+    "href": "research/origins-and-catalysis/index.html#selected-work",
+    "title": "Origins and Catalysis",
+    "section": "Selected work",
+    "text": "Selected work\nAdd publications and project highlights here."
+  },
+  {
+    "objectID": "research/programmable-materials/index.html",
+    "href": "research/programmable-materials/index.html",
+    "title": "Programmable Hybrid Materials",
+    "section": "",
+    "text": "Replace this text with the programme narrative."
+  },
+  {
+    "objectID": "research/programmable-materials/index.html#overview",
+    "href": "research/programmable-materials/index.html#overview",
+    "title": "Programmable Hybrid Materials",
+    "section": "",
+    "text": "Replace this text with the programme narrative."
+  },
+  {
+    "objectID": "research/programmable-materials/index.html#current-directions",
+    "href": "research/programmable-materials/index.html#current-directions",
+    "title": "Programmable Hybrid Materials",
+    "section": "Current directions",
+    "text": "Current directions\n\nDNA–silica materials\nInorganic replication\nNanoscale coating and deposition\nMultiscale characterization"
+  },
+  {
+    "objectID": "research/programmable-materials/index.html#selected-work",
+    "href": "research/programmable-materials/index.html#selected-work",
+    "title": "Programmable Hybrid Materials",
+    "section": "Selected work",
+    "text": "Selected work\nAdd publications and project highlights here."
+  },
+  {
+    "objectID": "research/dna-crystals/index.html",
+    "href": "research/dna-crystals/index.html",
+    "title": "DNA Crystal Engineering",
+    "section": "",
+    "text": "Replace this text with the research story you want visitors to encounter first."
+  },
+  {
+    "objectID": "research/dna-crystals/index.html#overview",
+    "href": "research/dna-crystals/index.html#overview",
+    "title": "DNA Crystal Engineering",
+    "section": "",
+    "text": "Replace this text with the research story you want visitors to encounter first."
+  },
+  {
+    "objectID": "research/dna-crystals/index.html#current-directions",
+    "href": "research/dna-crystals/index.html#current-directions",
+    "title": "DNA Crystal Engineering",
+    "section": "Current directions",
+    "text": "Current directions\n\nCrystal design and assembly\nTopology and interpenetration\nStructural reconfiguration\nFunctionalization and materials integration"
+  },
+  {
+    "objectID": "research/dna-crystals/index.html#selected-work",
+    "href": "research/dna-crystals/index.html#selected-work",
+    "title": "DNA Crystal Engineering",
+    "section": "Selected work",
+    "text": "Selected work\nAdd publications, figures, collaborators, and links here."
+  },
+  {
+    "objectID": "tools.html",
+    "href": "tools.html",
+    "title": "Software & Tools",
+    "section": "",
+    "text": "Tool name\nOne-sentence explanation of what the tool does.\nLaunch tool · Documentation · GitHub · Cite\n\nDuplicate the block above for each software package, web tool, design utility, or analysis workflow. External databases can be linked without being hosted inside the lab website."
+  },
+  {
+    "objectID": "news.html",
+    "href": "news.html",
+    "title": "News",
+    "section": "",
+    "text": "Add short dated updates here, or convert this page into a Quarto blog later."
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "This page is ready for a manually curated list now and can later be connected to a BibTeX file, ORCID export, or automated publication workflow."
+  }
+]

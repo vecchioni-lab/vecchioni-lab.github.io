@@ -3,68 +3,51 @@ title: "Vecchioni Lab"
 page-layout: full
 ---
 
-::: {.hero}
-::: {.hero-copy}
-<p class="eyebrow">VECCHIONI LAB · IMPERIAL COLLEGE LONDON</p>
+::: {.concept-hero}
+<div class="hero-image" role="img" aria-label="Lamella of Cy3- and Cy5-labeled crystal"></div>
+<div class="hero-shade"></div>
 
-# Programming matter with DNA
+::: {.hero-content}
+<p class="hero-eyebrow">IMPERIAL COLLEGE LONDON · DEPARTMENT OF LIFE SCIENCES</p>
+
+# Programming active matter using DNA
+
+<div class="hero-rule"></div>
 
 We engineer nucleic acids into crystalline, topological, electronic, and inorganic materials.
 
-[Explore our research](research/index.qmd){.button-primary}
-:::
-
-::: {.hero-art}
-![](assets/images/hero.jpg)
+[Explore our research →](research/index.qmd){.hero-button}
 :::
 :::
 
-## Research
+::: {.research-opening}
+<p class="section-eyebrow">OUR RESEARCH</p>
 
-::: {.research-grid}
-::: {.research-card}
-### DNA crystal engineering
+## Building the next generation of materials from nucleic acids
+:::
 
-Designing periodic nucleic-acid frameworks with programmable structure and function.
+::: {.research-strip}
+::: {.research-item}
+### DNA Crystal Engineering
+
+Designing periodic nucleic-acid frameworks with programmable structure, topology, and function.
 
 [Explore](research/dna-crystals/index.qmd)
 :::
 
-::: {.research-card}
-### Metal-mediated nucleic acids
+::: {.research-item}
+### Metal-Mediated Nucleic Acids
 
-Using coordination chemistry to control nucleic-acid structure, reactivity, and electronics.
+Using coordination chemistry to control nucleic-acid structure, switching, and reactivity.
 
 [Explore](research/metal-mediated-nucleic-acids/index.qmd)
 :::
 
-::: {.research-card}
-### Programmable materials
+::: {.research-item}
+### Programmable Hybrid Materials
 
 Translating molecular information into inorganic and hybrid material architectures.
 
 [Explore](research/programmable-materials/index.qmd)
-:::
-
-::: {.research-card}
-### Origins and catalysis
-
-Investigating early metal–nucleic-acid interactions and emergent catalytic function.
-
-[Explore](research/origins-and-catalysis/index.qmd)
-:::
-:::
-
-::: {.split-section}
-::: {.split-copy}
-## Science first
-
-The website is deliberately restrained: your own structures, figures, micrographs, and experimental images supply the visual identity.
-:::
-
-::: {.split-copy}
-## Built to change
-
-Research titles, summaries, page order, and imagery are stored in page metadata, so the scientific content can evolve without rebuilding the layout.
 :::
 :::
