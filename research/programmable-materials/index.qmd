@@ -1,0 +1,23 @@
+---
+title: "Programmable Hybrid Materials"
+nav-title: "Programmable Materials"
+subtitle: "Translating molecular information into inorganic structure"
+description: "DNA-directed mineralization, replication, coating, and fabrication of hybrid materials."
+image: "../../assets/images/research/materials.svg"
+order: 3
+---
+
+## Overview
+
+Replace this text with the programme narrative.
+
+## Current directions
+
+- DNA–silica materials
+- Inorganic replication
+- Nanoscale coating and deposition
+- Multiscale characterization
+
+## Selected work
+
+Add publications and project highlights here.

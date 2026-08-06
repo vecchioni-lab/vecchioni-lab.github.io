@@ -1,9 +1,14 @@
 ---
 title: "Software & Tools"
+subtitle: "Open tools developed by the lab"
 ---
 
-Software, design utilities, analysis scripts, protocols, and external databases developed or maintained by the lab.
+::: {.tool-card}
+### Tool name
 
-## Tool name
-One-sentence description. Add links for Tool · Documentation · GitHub · Cite.
+One-sentence explanation of what the tool does.
 
+[Launch tool](#) · [Documentation](#) · [GitHub](#) · [Cite](#)
+:::
+
+Duplicate the block above for each software package, web tool, design utility, or analysis workflow. External databases can be linked without being hosted inside the lab website.

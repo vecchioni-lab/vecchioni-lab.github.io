@@ -1,12 +1,24 @@
 ---
 title: "People"
+subtitle: "The Vecchioni Lab team"
 ---
 
-Add portraits, roles, short research descriptions, and links for lab members. Alumni can live in a separate section below the current team.
+## Principal investigator
 
-## Principal Investigator
-Simon Vecchioni — biography and research interests.
+Add photograph, biography, links, and contact details here.
 
-## Group Members
-Member cards will go here.
+## Researchers
 
+Duplicate a simple person block for each member:
+
+::: {.person-card}
+### Name
+
+**Role**
+
+One or two sentences about research interests.
+:::
+
+## Alumni
+
+Add former members here as the group grows.

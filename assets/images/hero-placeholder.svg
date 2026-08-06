@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900">
+  <rect width="1200" height="900" fill="#304754"/>
+  <g fill="none" stroke="#8db7bd" stroke-width="3" opacity=".55">
+    <path d="M120 690 C310 120 560 120 760 690 S1080 720 1110 240"/>
+    <path d="M90 630 C300 210 520 210 730 630 S1030 680 1120 300"/>
+    <path d="M160 750 L1060 150 M150 180 L1050 760"/>
+  </g>
+  <text x="70" y="830" fill="#f2eee6" font-family="Arial" font-size="36">Replace with your own research image</text>
+</svg>

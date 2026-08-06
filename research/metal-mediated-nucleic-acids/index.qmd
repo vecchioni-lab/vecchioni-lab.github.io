@@ -1,0 +1,23 @@
+---
+title: "Metal-Mediated Nucleic Acids"
+nav-title: "Metal-Mediated Nucleic Acids"
+subtitle: "Coordination chemistry inside programmable biomolecular systems"
+description: "Metal-directed structures, transmetalation, catalysis, and molecular electronic function."
+image: "../../assets/images/research/metals.svg"
+order: 2
+---
+
+## Overview
+
+Replace this text with an accessible introduction to the programme.
+
+## Current directions
+
+- Metal-mediated base pairing
+- Transmetalation and switching
+- Molecular electronics
+- Structural and spectroscopic characterization
+
+## Selected work
+
+Add publications and project highlights here.

@@ -1,0 +1,23 @@
+---
+title: "DNA Crystal Engineering"
+nav-title: "DNA Crystals"
+subtitle: "Programming periodic matter from nucleic acids"
+description: "Design, assembly, topology, and structural analysis of three-dimensional DNA crystals."
+image: "../../assets/images/research/dna-crystals.svg"
+order: 1
+---
+
+## Overview
+
+Replace this text with the research story you want visitors to encounter first.
+
+## Current directions
+
+- Crystal design and assembly
+- Topology and interpenetration
+- Structural reconfiguration
+- Functionalization and materials integration
+
+## Selected work
+
+Add publications, figures, collaborators, and links here.

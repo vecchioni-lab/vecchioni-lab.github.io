@@ -1,20 +1,42 @@
 project:
   type: website
   output-dir: docs
+
 website:
   title: "Vecchioni Lab"
+  site-url: "https://vecchioni-lab.github.io"
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - research.qmd
-      - publications.qmd
-      - people.qmd
-      - tools.qmd
-      - news.qmd
-      - join.qmd
-      - contact.qmd
+      - href: research/index.qmd
+        text: Research
+      - href: people.qmd
+        text: People
+      - href: publications.qmd
+        text: Publications
+      - href: tools.qmd
+        text: Software & Tools
+      - href: news.qmd
+        text: News
+      - href: join.qmd
+        text: Join Us
+      - href: contact.qmd
+        text: Contact
+  page-footer:
+    left: "© Vecchioni Lab"
+    right: "Imperial College London"
+  search: true
+
 format:
   html:
-    css: assets/style.css
     theme: none
+    css: assets/css/styles.css
+    toc: false
+    smooth-scroll: true
+    include-in-header:
+      text: |
+        <meta name="theme-color" content="#263946">
+
+execute:
+  freeze: auto

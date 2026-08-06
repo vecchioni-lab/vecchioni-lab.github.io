@@ -1,6 +1,6 @@
 ---
 title: "News"
+subtitle: "Updates from the lab"
 ---
 
-Short updates on publications, awards, talks, new group members, and lab milestones.
-
+Add short dated updates here, or convert this page into a Quarto blog later.

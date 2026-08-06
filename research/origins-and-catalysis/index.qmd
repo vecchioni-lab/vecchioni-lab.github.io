@@ -1,0 +1,23 @@
+---
+title: "Origins and Catalysis"
+nav-title: "Origins & Catalysis"
+subtitle: "Metal–nucleic-acid interactions before modern biology"
+description: "Exploring how simple nucleic-acid and metal assemblies could support structure and catalysis."
+image: "../../assets/images/research/origins.svg"
+order: 4
+---
+
+## Overview
+
+Replace this text with the programme narrative.
+
+## Current directions
+
+- Prebiotic coordination assemblies
+- Metal-dependent catalysis
+- Emergent cages and compartments
+- Chemical evolution of nucleic acids
+
+## Selected work
+
+Add publications and project highlights here.

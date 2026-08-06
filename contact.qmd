@@ -1,10 +1,6 @@
 ---
 title: "Contact"
+subtitle: "Vecchioni Lab · Imperial College London"
 ---
 
-**Vecchioni Lab**  
-Imperial College London  
-Department and building details
-
-Email: add-lab-email@imperial.ac.uk
-
+Add the laboratory address, email, institutional profile, and map details here.

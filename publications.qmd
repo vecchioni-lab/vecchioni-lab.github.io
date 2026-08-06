@@ -1,9 +1,6 @@
 ---
 title: "Publications"
+subtitle: "Selected and recent work"
 ---
 
-This page can later be generated from a BibTeX file. For launch, add selected publications manually with DOI and PDF links.
-
-## Selected publications
-**Publication title.** Authors. *Journal* year. DOI.
-
+This page is ready for a manually curated list now and can later be connected to a BibTeX file, ORCID export, or automated publication workflow.

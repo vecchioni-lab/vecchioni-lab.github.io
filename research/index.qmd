@@ -1,0 +1,16 @@
+---
+title: "Research"
+subtitle: "Current directions in programmable nucleic-acid materials"
+listing:
+  contents:
+    - "*/index.qmd"
+  sort: "order"
+  type: grid
+  fields: [image, title, subtitle, description]
+  grid-columns: 2
+  page-size: 20
+  filter-ui: false
+  sort-ui: false
+---
+
+Each research area below is a separate modular folder. Edit its `index.qmd` metadata to change the title, subtitle, summary, image, or ordering.

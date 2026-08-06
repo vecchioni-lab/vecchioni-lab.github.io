@@ -1,6 +1,6 @@
 ---
 title: "Join Us"
+subtitle: "Work with the Vecchioni Lab"
 ---
 
-Describe current openings, the kinds of researchers you seek, and how prospective students or postdoctoral researchers should contact the lab.
-
+Describe open positions, prospective-student guidance, fellowship opportunities, and what applicants should send.
