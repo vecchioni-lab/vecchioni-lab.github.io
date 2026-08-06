@@ -4,14 +4,14 @@ project:
 
 website:
   title: "Vecchioni Lab"
-  site-url: "https://vecchioni-lab.github.io"
   navbar:
     pinned: true
+    collapse-below: xl
     left:
       - href: index.qmd
         text: Home
       - href: research/index.qmd
-        text: Research
+        text: Research      
       - href: people.qmd
         text: People
       - href: publications.qmd
