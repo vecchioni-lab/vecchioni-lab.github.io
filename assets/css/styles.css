@@ -78,7 +78,7 @@ body {
   position: absolute;
   inset: 0;
   z-index: -3;
-  background-image: url("../images/hero2.jpg");
+  background-image: url("../images/hero3.jpg");
   background-size: cover;
   background-position: 68% center;
 }
@@ -107,7 +107,8 @@ body {
   padding: 9.5rem 4rem 6rem;
   display: flex;
   flex-direction: column;
-  justify-content: center;
+  justify-content: flex-start;
+  padding-top: 3.8rem;
   align-items: flex-start;
 }
 
@@ -164,7 +165,7 @@ body {
 }
 
 .research-opening {
-  padding: 3.2rem 2rem 2rem;
+  padding: 1.2rem 2rem 2rem;
   text-align: center;
   background: linear-gradient(180deg, #112536 0%, #102332 100%);
   border-top: 1px solid rgba(255,255,255,.04);
