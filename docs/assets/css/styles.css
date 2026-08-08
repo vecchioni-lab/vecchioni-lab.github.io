@@ -150,9 +150,10 @@ body {
 .hero-button {
   display: inline-block;
   margin-top: 2.2rem;
-  padding: 0.95rem 1.7rem;
-  border: 1px solid rgba(128, 198, 216, 0.7);
-  color: var(--text);
+  padding: 0 0 0.25rem 0;
+  border: none;
+  border-bottom: 1px solid rgba(128, 198, 216, 0.65);
+  color: var(--accent);
   text-decoration: none;
   font-size: 0.84rem;
   letter-spacing: 0.1em;
@@ -160,8 +161,9 @@ body {
 }
 
 .hero-button:hover {
-  color: var(--page-bg);
-  background: var(--accent);
+  color: var(--text);
+  background: transparent;
+  border-bottom-color: var(--text);
 }
 
 .research-opening {
@@ -308,4 +310,55 @@ main#quarto-document-content {
   rgba(18, 38, 54, 0.28) 100%
 );
   z-index: -1;
+}
+
+.research-panel {
+  display: grid;
+  grid-template-columns: 0.9fr 1.1fr;
+  gap: 3rem;
+  align-items: center;
+  max-width: var(--max-width);
+  margin: 0 auto;
+  padding: 4rem 2rem;
+  border-top: 1px solid var(--border);
+}
+
+.research-panel-text {
+  max-width: 520px;
+}
+
+.panel-number {
+  color: var(--accent);
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 2rem;
+  margin-bottom: 0.8rem;
+}
+
+.research-panel h2 {
+  margin: 0 0 1rem;
+  font-family: Georgia, "Times New Roman", serif;
+  font-weight: 400;
+  font-size: 2.4rem;
+}
+
+.research-panel-text p {
+  color: var(--muted);
+}
+
+.research-panel-image img {
+  width: 100%;
+  display: block;
+}
+
+.panel-caption {
+  margin-top: 0.6rem;
+  font-size: 0.78rem;
+  line-height: 1.4;
+  color: var(--muted);
+}
+
+.panel-link {
+  color: var(--accent);
+  text-decoration: none;
+  border-bottom: 1px solid rgba(128,198,216,.4);
 }

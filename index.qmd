@@ -26,28 +26,28 @@ We engineer nucleic acids into crystalline, topological, electronic, and inorgan
 ## Building the next generation of materials from nucleic acids
 :::
 
-::: {.research-strip}
-::: {.research-item}
-### DNA Crystal Engineering
+::: {.research-panel}
 
-Designing periodic nucleic-acid frameworks with programmable structure, topology, and function.
+::: {.research-panel-text}
 
-[Explore](research/dna-crystals/index.qmd)
+<p class="panel-number">01</p>
+
+## A Metal Design Language
+
+We develop a chemical language in which metal coordination encodes structure, function, and information in nucleic acids.
+
+[Explore this research →](research/metal-design-language/index.qmd){.panel-link}
+
 :::
 
-::: {.research-item}
-### Metal-Mediated Nucleic Acids
+::: {.research-panel-image}
 
-Using coordination chemistry to control nucleic-acid structure, switching, and reactivity.
+![](assets/images/research/metal-design-language.jpg)
 
-[Explore](research/metal-mediated-nucleic-acids/index.qmd)
+<p class="panel-caption">
+Metal-mediated nucleic-acid architecture. Add image caption and citation here.
+</p>
+
 :::
 
-::: {.research-item}
-### Programmable Hybrid Materials
-
-Translating molecular information into inorganic and hybrid material architectures.
-
-[Explore](research/programmable-materials/index.qmd)
-:::
 :::
