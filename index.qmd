@@ -47,7 +47,140 @@ Using high-throughput X-ray crystallography, iterative design, and collaboration
 ![](assets/images/research/metal-design-language.jpg)
 
 <p class="panel-caption">
-Metal-mediated nucleic-acid tile. As a goal, we show a double-crossover motif with a nearly-full metalation at the center of the double helix. 
+Metal-mediated nucleic-acid tile. As a goal, we show a double-crossover motif with a nearly-full metal stack at the center of the double helix. 
+</p>
+
+:::
+
+:::
+
+::: {.research-panel}
+
+::: {.research-panel-text}
+
+<p class="panel-number">01</p>
+
+## Molecular Electronics and Quantum Materials
+
+We use DNA to organize metals and molecular components with atomic precision, exploring how programmable structure can give rise to electronic, magnetic, and quantum phenomena.
+
+[Explore this research →](research/molecular-electronics/index.qmd){.panel-link}
+
+:::
+
+::: {.research-panel-image}
+
+![](assets/images/research/molecular-electronics.jpg)
+
+<p class="panel-caption">
+Add image description and citation here.
+</p>
+
+:::
+
+:::
+
+::: {.research-panel}
+
+::: {.research-panel-text}
+
+<p class="panel-number">02</p>
+
+## Nanophotonics in DNA
+
+We use programmable nucleic-acid architectures to organize optical components with nanoscale precision, creating materials in which structure controls the interaction of light and matter.
+
+[Explore this research →](research/nanophotonics/index.qmd){.panel-link}
+
+:::
+
+::: {.research-panel-image}
+
+![](assets/images/research/nanophotonics.jpg)
+
+<p class="panel-caption">
+Add image description and citation here.
+</p>
+
+:::
+
+:::
+
+
+::: {.research-panel}
+
+::: {.research-panel-text}
+
+<p class="panel-number">03</p>
+
+## (A)Biomorphogenesis
+
+We explore how molecular information propagates across length scales to generate form, using DNA to build and study crystalline, topological, inorganic, and hybrid materials.
+
+[Explore this research →](research/abiomorphogenesis/index.qmd){.panel-link}
+
+:::
+
+::: {.research-panel-image}
+
+![](assets/images/research/abiomorphogenesis.jpg)
+
+<p class="panel-caption">
+Add image description and citation here.
+</p>
+
+:::
+
+:::
+
+
+::: {.research-panel}
+
+::: {.research-panel-text}
+
+<p class="panel-number">04</p>
+
+## Origins of Life and Astrobiology
+
+We investigate how interactions between nucleic acids, metals, and self-assembling molecular systems could have contributed to the emergence of structure, function, and catalysis in early chemical evolution.
+
+[Explore this research →](research/origins-of-life/index.qmd){.panel-link}
+
+:::
+
+::: {.research-panel-image}
+
+![](assets/images/research/origins-of-life.jpg)
+
+<p class="panel-caption">
+Add image description and citation here.
+</p>
+
+:::
+
+:::
+
+
+::: {.research-panel}
+
+::: {.research-panel-text}
+
+<p class="panel-number">05</p>
+
+## Building Community
+
+We build tools, databases, shared resources, and scientific communities that make nucleic-acid materials research more accessible, reproducible, and collaborative.
+
+[Explore this research →](research/building-community/index.qmd){.panel-link}
+
+:::
+
+::: {.research-panel-image}
+
+![](assets/images/research/building-community.jpg)
+
+<p class="panel-caption">
+Add image description and citation here.
 </p>
 
 :::

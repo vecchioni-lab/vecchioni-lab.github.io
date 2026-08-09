@@ -364,3 +364,12 @@ main#quarto-document-content {
   text-decoration: none;
   border-bottom: 1px solid rgba(128,198,216,.4);
 }
+
+/* Alternate research panels as the page scrolls */
+.research-panel:nth-of-type(even) .research-panel-text {
+  order: 2;
+}
+
+.research-panel:nth-of-type(even) .research-panel-image {
+  order: 1;
+}
