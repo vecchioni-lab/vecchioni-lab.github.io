@@ -32,7 +32,7 @@
     "href": "index.html",
     "title": "Vecchioni Lab",
     "section": "",
-    "text": "IMPERIAL COLLEGE LONDON · DEPARTMENT OF LIFE SCIENCES\n\n\n\n\n\n\nWe engineer nucleic acids into crystalline, topological, electronic, and inorganic materials.\nExplore our research →"
+    "text": "IMPERIAL COLLEGE LONDON · DEPARTMENT OF LIFE SCIENCES\n\n\n\n\n\n\nWe engineer nucleic acids into functional materials with bespoke electronic, photonic and quantum properties.\nExplore our research →"
   },
   {
     "objectID": "index.html#building-the-next-generation-of-materials-from-nucleic-acids",
@@ -200,14 +200,14 @@
     "href": "index.html#a-metal-design-language",
     "title": "Vecchioni Lab",
     "section": "A Metal Design Language",
-    "text": "A Metal Design Language\nThe overarching theme of the Lab is to develop a bioinorganic programming language in which topological self-assembly of nucleic acids is carried out using metal base pairs. By replacing select hydrogen bonds with metal coordination bonds, we aim to expand the intrinsic functionality of nucleic acids to interface with light, electrons, and biochemical inputs.\nUsing high-throughput X-ray crystallography, iterative design, and collaboration with chemists and physicists, we aim to make molecules, such as the 3D tile shown here, possible in the near future.\nExplore this research →"
+    "text": "A Metal Design Language\nThe overarching theme of the DNA Lab is to develop a bioinorganic programming language in which topological self-assembly of nucleic acids is carried out using metal base pairs. By replacing select hydrogen bonds with metal coordination bonds, we aim to expand the intrinsic functionality of nucleic acids to interface with light, electrons, and biochemical inputs.\nUsing high-throughput X-ray crystallography, iterative design, and collaboration with chemists and physicists, we aim to make complex molecules, such as the 3D tile shown here, possible in the near future.\nExplore this research →"
   },
   {
     "objectID": "index.html#molecular-electronics-and-quantum-materials",
     "href": "index.html#molecular-electronics-and-quantum-materials",
     "title": "Vecchioni Lab",
     "section": "Molecular Electronics and Quantum Materials",
-    "text": "Molecular Electronics and Quantum Materials\nWe use DNA to organize metals and molecular components with atomic precision, exploring how programmable structure can give rise to electronic, magnetic, and quantum phenomena.\nExplore this research →"
+    "text": "Molecular Electronics and Quantum Materials\nWe leverage the extreme precision of the double helix to engineer technologies around atomic parts. This mission has led to the development of the first DNA transistor, storing electrical information in DNA for the first time using a two-atom switch.\nOur current projects expand into circuit design and quantum devices that leverage metallic DNA hybrids.\nExplore this research →"
   },
   {
     "objectID": "index.html#nanophotonics-in-dna",
@@ -235,6 +235,20 @@
     "href": "index.html#building-community",
     "title": "Vecchioni Lab",
     "section": "Building Community",
-    "text": "Building Community\nWe build tools, databases, shared resources, and scientific communities that make nucleic-acid materials research more accessible, reproducible, and collaborative.\nExplore this research →"
+    "text": "Building Community\nWe build tools, databases, shared resources, and scientific communities that make nucleic-acid materials research more accessible, reproducible, and collaborative.\nWe emphasize writing thorough, accessible reviews for new students, written by curious humans, for curious humans; developing software tools for understanding and analyzing DNA crystals; building databases to house and disseminate the field; and establishing an inclusive, open, and kind scientific community where creativity and curiosity dominate the scientific process.\nExplore our community and mission →"
+  },
+  {
+    "objectID": "index.html#remodeling-the-double-helix-for-bioinorganic-functions",
+    "href": "index.html#remodeling-the-double-helix-for-bioinorganic-functions",
+    "title": "Vecchioni Lab",
+    "section": "Remodeling the double helix for bioinorganic functions",
+    "text": "Remodeling the double helix for bioinorganic functions"
+  },
+  {
+    "objectID": "index.html#remodeling-the-double-helix-atom-by-atom",
+    "href": "index.html#remodeling-the-double-helix-atom-by-atom",
+    "title": "Vecchioni Lab",
+    "section": "Remodeling the double helix atom by atom",
+    "text": "Remodeling the double helix atom by atom"
   }
 ]

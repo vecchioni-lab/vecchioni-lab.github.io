@@ -319,7 +319,7 @@ main#quarto-document-content {
   align-items: center;
   max-width: var(--max-width);
   margin: 0 auto;
-  padding: 4rem 2rem;
+  padding: 6rem 2rem;
   border-top: 1px solid var(--border);
 }
 
@@ -351,10 +351,12 @@ main#quarto-document-content {
   display: block;
 }
 
-.panel-caption {
-  margin-top: 0.6rem;
-  font-size: 0.78rem;
-  line-height: 1.4;
+.research-panel-image .panel-caption {
+  margin: 0.6rem 0 0 0;
+  font-family: Inter, "Helvetica Neue", Arial, sans-serif;
+  font-size: 0.78rem !important;
+  line-height: 1.4 !important;
+  font-weight: 400;
   color: var(--muted);
   text-align: justify;
 }
@@ -372,4 +374,14 @@ main#quarto-document-content {
 
 .research-panel:nth-of-type(even) .research-panel-image {
   order: 1;
+}
+
+.research-panel-vision {
+  background: rgba(128, 198, 216, 0.035);
+}
+
+.research-panel-image img {
+  width: 100%;
+  height: auto;
+  display: block;
 }

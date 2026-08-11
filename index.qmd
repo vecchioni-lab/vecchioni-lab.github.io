@@ -14,7 +14,7 @@ page-layout: full
 
 <div class="hero-rule"></div>
 
-We engineer nucleic acids into crystalline, topological, electronic, and inorganic materials.
+We engineer nucleic acids into functional materials with bespoke electronic, photonic and quantum properties. 
 
 [Explore our research →](research/index.qmd){.hero-button}
 :::
@@ -23,10 +23,10 @@ We engineer nucleic acids into crystalline, topological, electronic, and inorgan
 ::: {.research-opening}
 <p class="section-eyebrow">OUR RESEARCH</p>
 
-## Building the next generation of materials from nucleic acids
+## Remodeling the double helix atom by atom
 :::
 
-::: {.research-panel}
+::: {.research-panel .research-panel-vision}
 
 ::: {.research-panel-text}
 
@@ -34,9 +34,9 @@ We engineer nucleic acids into crystalline, topological, electronic, and inorgan
 
 ## A Metal Design Language
 
-The overarching theme of the Lab is to develop a bioinorganic programming language in which topological self-assembly of nucleic acids is carried out using metal base pairs. By replacing select hydrogen bonds with metal coordination bonds, we aim to expand the intrinsic functionality of nucleic acids to interface with light, electrons, and biochemical inputs.
+The overarching theme of the DNA Lab is to develop a bioinorganic programming language in which topological self-assembly of nucleic acids is carried out using metal base pairs. By replacing select hydrogen bonds with metal coordination bonds, we aim to expand the intrinsic functionality of nucleic acids to interface with light, electrons, and biochemical inputs.
 
-Using high-throughput X-ray crystallography, iterative design, and collaboration with chemists and physicists, we aim to make molecules, such as the 3D tile shown here, possible in the near future.
+Using high-throughput X-ray crystallography, iterative design, and collaboration with chemists and physicists, we aim to make complex molecules, such as the 3D tile shown here, possible in the near future.
 
 [Explore this research →](research/metal-design-language/index.qmd){.panel-link}
 
@@ -48,6 +48,8 @@ Using high-throughput X-ray crystallography, iterative design, and collaboration
 
 <p class="panel-caption">
 Metal-mediated nucleic-acid tile. As a goal, we show a double-crossover motif with a nearly-full metal stack at the center of the double helix. 
+<a href="https://doi.org/10.1002/adma.202210938">Vecchioni et al, Adv. Mat. (2023) 35, 2210938 </a>
+
 </p>
 
 :::
@@ -62,7 +64,9 @@ Metal-mediated nucleic-acid tile. As a goal, we show a double-crossover motif wi
 
 ## Molecular Electronics and Quantum Materials
 
-We use DNA to organize metals and molecular components with atomic precision, exploring how programmable structure can give rise to electronic, magnetic, and quantum phenomena.
+We leverage the extreme precision of the double helix to engineer technologies around atomic parts. This mission has led to the development of the first DNA transistor, storing electrical information in DNA for the first time using a two-atom switch.
+
+Our current projects expand into circuit design and quantum devices that leverage metallic DNA hybrids.
 
 [Explore this research →](research/molecular-electronics/index.qmd){.panel-link}
 
@@ -73,7 +77,8 @@ We use DNA to organize metals and molecular components with atomic precision, ex
 ![](assets/images/research/molecular-electronics.jpg)
 
 <p class="panel-caption">
-Add image description and citation here.
+The first DNA transistor, which stored three memory states based on reversible metal coordination with field-driven reconfiguration. 
+<a href="https://doi.org/10.1016/j.matt.2025.102470">Liu et al, Matter (2026) 9,1, 102470. </a>
 </p>
 
 :::
@@ -96,7 +101,7 @@ We use programmable nucleic-acid architectures to organize optical components wi
 
 ::: {.research-panel-image}
 
-![](assets/images/research/nanophotonics.jpg)
+![](assets/images/research/photon.jpg)
 
 <p class="panel-caption">
 Add image description and citation here.
@@ -123,7 +128,7 @@ We explore how molecular information propagates across length scales to generate
 
 ::: {.research-panel-image}
 
-![](assets/images/research/abiomorphogenesis.jpg)
+![](assets/images/research/confocal.jpg)
 
 <p class="panel-caption">
 Add image description and citation here.
@@ -150,10 +155,12 @@ We investigate how interactions between nucleic acids, metals, and self-assembli
 
 ::: {.research-panel-image}
 
-![](assets/images/research/origins-of-life.jpg)
+![](assets/images/research/space.jpg)
 
 <p class="panel-caption">
-Add image description and citation here.
+Metalated DNA crystals launched aboard SpaceX NG-24 for long-term stability test on ISS, 11 April, 2026 
+<a href="https://www.dvidshub.net/image/9617831/cygnus-ng-24-launches-cape-canaveral-space-force-station"> U.S. Space Force / DVIDS</a>
+
 </p>
 
 :::
@@ -171,13 +178,15 @@ Add image description and citation here.
 
 We build tools, databases, shared resources, and scientific communities that make nucleic-acid materials research more accessible, reproducible, and collaborative.
 
-[Explore this research →](research/building-community/index.qmd){.panel-link}
+We emphasize writing thorough, accessible reviews for new students, written by curious humans, for curious humans; developing software tools for understanding and analyzing DNA crystals; building databases to house and disseminate the field; and establishing an inclusive, open, and kind scientific community where creativity and curiosity dominate the scientific process.
+
+[Explore our community and mission →](research/building-community/index.qmd){.panel-link}
 
 :::
 
 ::: {.research-panel-image}
 
-![](assets/images/research/building-community.jpg)
+![](assets/images/research/Community.jpg)
 
 <p class="panel-caption">
 Add image description and citation here.
