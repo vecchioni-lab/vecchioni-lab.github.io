@@ -385,3 +385,42 @@ main#quarto-document-content {
   height: auto;
   display: block;
 }
+
+.publication {
+  margin: 0 0 1.6rem;
+  color: var(--muted);
+  font-size: 0.95rem;
+  line-height: 1.55;
+}
+
+.pub-me {
+  color: var(--accent);
+  font-weight: 600;
+}
+
+.pub-meta {
+  display: block;
+  margin-top: 0.15rem;
+  color: var(--text);
+}
+
+.pub-title {
+  display: block;
+  margin-top: 0.1rem;
+  color: var(--muted);
+}
+
+.pub-journal {
+  color: #8fc9a3;
+  font-weight: 600;
+}
+
+.pub-meta strong {
+  color: var(--text);
+  font-weight: 700;
+}
+
+.secondary-image {
+  width: 50%;
+  margin: 3rem auto;
+}

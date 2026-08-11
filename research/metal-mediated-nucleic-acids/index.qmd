@@ -14,35 +14,145 @@ We develop a bioinorganic programming language in which metal coordination is us
 
 ::: {.research-page-image}
 
-![](../../assets/images/research/metal-design-language.jpg)
+![](../../assets/images/research/tensegrity.png)
 
 <p class="panel-caption">
-Add image description here.
-<a href="YOUR-LINK">Citation.</a>
+Workflow of developing metal-mediated DNA chemistry using self-assembling crystals.
+<a href="https://doi.org/10.1021/jacs.3c05478">Lu et al, JACS (2023) 145 (32), 17945–17953.</a>
 </p>
 
 :::
 
 ## Overview
 
-The central idea of the lab is that the hydrogen-bonding language of nucleic acids can be expanded using metal coordination chemistry.
+The DNA molecule is the foundation for “semantomorphic” science, where the information
+contained within a nucleobase sequence (semanto-) is exploited for the topological
+programming of 2D and 3D architectures (-morphic). This is driven by Watson-Crick parity,
+the non-symmetric base complementarity between orthogonal nucleotide pairs (A:T, C:G).
+Metal Base Pairs: The intrinsic functionality of DNA enables self-assembly of branched structures
+(DNA origami, 3D crystals, etc.), but there is little in the way of electronic, magnetic, or photonic capacity
+from native DNA. It was found in 2006 that natural T:T mismatches could selectively bind Hg2+ ions in
+what is known as a metal-mediated DNA base pair (mmDNA), but to date no real applications of this
+technology have been engineered. The main roadblock to this technology lies in programming—a DNA
+alphabet in which each letter binds the same metals inhibits any ability to carry out self-assembly.
 
-By replacing selected hydrogen bonds with coordination bonds, we aim to create nucleic-acid systems that interact directly with electrons, light, magnetic fields, and biochemical inputs while retaining the programmability of DNA self-assembly.
+Thus a grand challenge in the field of DNA metalation is orthogonality: (1) there should exist at least
+two non-equivalent metal base pairs (C:G vs. A:T); (2) and those base pairs should be asymmetric
+(A:T/T:A). My research program will establish a means of topological programming of single metal
+ions in 3D architectures using the rapid crystallographic screening of orthogonal metal base pairs.
 
-## Current directions
+## Research Workflow
 
 ### Metal-mediated base pairing
 
-Designing synthetic and natural nucleobase combinations that selectively coordinate transition metals and other ions.
+We first use self-assembling crystals (i.e. the tensegrity triangle) as a high-throughput diffraciton platform to screen novel metalated DNA interactions. Using structural biology tools, we build a structural database that can be used for design, iteration, and experimentation.
 
-### Multimetallic architectures
+### Responsive Coordination
 
-Using DNA to position multiple metals with atomic-scale precision and create emergent electronic, magnetic, catalytic, or optical behavior.
+Once molecular structures are resolved, we work to identify the criteria for metalation: pH, buffer, co-metalation, etc. We then find ways to dynamically perturb these pairs, yielding techniological outputs.
 
-### Inverse design
+::: {.research-page-image .secondary-image}
 
-Developing computational tools that connect coordination chemistry, nucleic-acid geometry, and synthetic accessibility.
+![](../../assets/images/research/pH.png)
 
-## Selected work
+<p class="panel-caption">
+Reconfigurable metalation using DNA crystallography.
+<a href="https://doi.org/10.1002/smll.202411518">De et al, Small (2026) 21, 2411518.</a>
+</p>
 
-Add representative publications here.
+:::
+
+
+### Language development
+
+Finally, we aim to develop a coding language that reads metals as an input to store information. We further aim to expand the library of metals inside the double helix to enable new functions.
+
+## Selected work from the lab:
+
+<div class="publication">
+  Toomey, E., Xu, J., <span class="pub-me">Vecchioni, S.</span>, et al.
+  <span class="pub-meta">
+    <span class="pub-journal">J. Phys. Chem. C</span> · <strong>2016</strong> · 120(14)
+  </span>
+  <span class="pub-title">Comparison of Canonical vs Silver(I)-Mediated Base-Pairing on Single Molecule Conductance in Polycytosine dsDNA.</span>
+</div>
+
+<div class="publication">
+  <span class="pub-me">Vecchioni, S.</span>, Wind, S.J.
+  <span class="pub-meta">
+    <span class="pub-journal">US Patent US20170294608A1</span> · <strong>2017</strong>
+  </span>
+  <span class="pub-title">Self-assembled, electronically-functional nucleic acid nanostructures and networks based on the use of orthogonal base pairs.</span>
+</div>
+
+<div class="publication">
+  <span class="pub-me">Vecchioni, S.</span> et al.
+  <span class="pub-meta">
+    <span class="pub-journal">J. Self-Assembly and Molecular Electronics</span> · <strong>2018</strong> · 6 · 61
+  </span>
+  <span class="pub-title">Methods of Synthesis and Characterization of Conductive DNA Nanowires for Single-Molecule Electronics.</span>
+</div>
+
+<div class="publication">
+  <span class="pub-me">Vecchioni, S.</span> et al.
+  <span class="pub-meta">
+    <span class="pub-journal">Scientific Reports</span> · <strong>2019</strong> · 9(1)
+  </span>
+  <span class="pub-title">Construction and characterization of metal ion-containing DNA nanowires for synthetic biology and nanotechnology.</span>
+</div>
+
+<div class="publication">
+  <span class="pub-me">Vecchioni, S.</span> et al.
+  <span class="pub-meta">
+    <span class="pub-journal">J. Self-Assembly and Molecular Electronics</span> · <strong>2023</strong> · 17–76
+  </span>
+  <span class="pub-title">DNA by Design: De novo computational framework for DNA sequence design and nanotechnology.</span>
+</div>
+
+<div class="publication">
+  <span class="pub-me">Vecchioni, S.</span>*†, Lu, B.*, …, Sha, R.†
+  <span class="pub-meta">
+    <span class="pub-journal">Advanced Materials</span> · <strong>2023</strong> · 35 · 2210938
+  </span>
+  <span class="pub-title">Metal-Mediated DNA Nanotechnology in 3D: Structural Library by Templated Diffraction.</span>
+</div>
+
+<div class="publication">
+  Lu, B., … Canary, J.W., Sha, R., <span class="pub-me">Vecchioni, S.</span>†
+  <span class="pub-meta">
+    <span class="pub-journal">JACS</span> · <strong>2023</strong> · 145(32)
+  </span>
+  <span class="pub-title">Heterobimetallic Base Pair Programming in Designer 3D DNA Crystals.</span>
+</div>
+
+<div class="publication">
+  <span class="pub-me">Vecchioni, S.</span>† et al.
+  <span class="pub-meta">
+    <span class="pub-journal">Small</span> · <strong>2024</strong> · 21(3) · 2407604
+  </span>
+  <span class="pub-title">Silver(I)-Mediated 2D DNA Nanostructures.</span>
+</div>
+
+<div class="publication">
+  <span class="pub-me">Vecchioni, S.</span>*, Ohayon, Y.P.*, Hoshika, S., Benner, S.A., Sha, R.
+  <span class="pub-meta">
+    <span class="pub-journal">Nano Letters</span> · <strong>2024</strong> · 24(45)
+  </span>
+  <span class="pub-title">Six-Letter DNA Nanotechnology: Incorporation of Z-P Base Pairs into Self-Assembling 3D Crystals.</span>
+</div>
+
+<div class="publication">
+  De, A., … Anantram, M.P.†, <span class="pub-me">Vecchioni, S.</span>†
+  <span class="pub-meta">
+    <span class="pub-journal">Small</span> · <strong>2025</strong> · 21(25) · 2411518
+  </span>
+  <span class="pub-title">Transmetalation for DNA-based Molecular Electronics.</span>
+</div>
+
+<div class="publication">
+  Liu, B., Lu, B., … <span class="pub-me">Vecchioni, S.</span>†, Hihath, J.†
+  <span class="pub-meta">
+    <span class="pub-journal">Matter</span> · <strong>2025</strong> · 102470
+  </span>
+  <span class="pub-title">Electrical Control of a Metal-Mediated DNA Memory.</span>
+</div>
