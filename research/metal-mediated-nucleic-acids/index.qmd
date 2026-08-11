@@ -1,23 +1,48 @@
 ---
-title: "Metal-Mediated Nucleic Acids"
-nav-title: "Metal-Mediated Nucleic Acids"
-subtitle: "Coordination chemistry inside programmable biomolecular systems"
-description: "Metal-directed structures, transmetalation, catalysis, and molecular electronic function."
-image: "../../assets/images/research/metals.svg"
-order: 2
+title: "A Metal Design Language"
+subtitle: "Remodeling the double helix atom by atom"
+page-layout: full
 ---
+
+::: {.research-page-hero}
+
+# A Metal Design Language
+
+We develop a bioinorganic programming language in which metal coordination is used to encode structure, function, and information into nucleic acids.
+
+:::
+
+::: {.research-page-image}
+
+![](../../assets/images/research/metal-design-language.jpg)
+
+<p class="panel-caption">
+Add image description here.
+<a href="YOUR-LINK">Citation.</a>
+</p>
+
+:::
 
 ## Overview
 
-Replace this text with an accessible introduction to the programme.
+The central idea of the lab is that the hydrogen-bonding language of nucleic acids can be expanded using metal coordination chemistry.
+
+By replacing selected hydrogen bonds with coordination bonds, we aim to create nucleic-acid systems that interact directly with electrons, light, magnetic fields, and biochemical inputs while retaining the programmability of DNA self-assembly.
 
 ## Current directions
 
-- Metal-mediated base pairing
-- Transmetalation and switching
-- Molecular electronics
-- Structural and spectroscopic characterization
+### Metal-mediated base pairing
+
+Designing synthetic and natural nucleobase combinations that selectively coordinate transition metals and other ions.
+
+### Multimetallic architectures
+
+Using DNA to position multiple metals with atomic-scale precision and create emergent electronic, magnetic, catalytic, or optical behavior.
+
+### Inverse design
+
+Developing computational tools that connect coordination chemistry, nucleic-acid geometry, and synthetic accessibility.
 
 ## Selected work
 
-Add publications and project highlights here.
+Add representative publications here.

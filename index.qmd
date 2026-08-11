@@ -47,9 +47,8 @@ Using high-throughput X-ray crystallography, iterative design, and collaboration
 ![](assets/images/research/metal-design-language.jpg)
 
 <p class="panel-caption">
-Metal-mediated nucleic-acid tile. As a goal, we show a double-crossover motif with a nearly-full metal stack at the center of the double helix. 
-<a href="https://doi.org/10.1002/adma.202210938">Vecchioni et al, Adv. Mat. (2023) 35, 2210938 </a>
-
+Metal-mediated nucleic-acid tile. As a goal, we show a double-crossover motif with nearly full metalation at the center of the double helix.
+<a href="https://doi.org/10.1002/adma.202210938">Vecchioni et al, Advanced Materials (2023) 35, 2210938</a>
 </p>
 
 :::
@@ -93,7 +92,8 @@ The first DNA transistor, which stored three memory states based on reversible m
 
 ## Nanophotonics in DNA
 
-We use programmable nucleic-acid architectures to organize optical components with nanoscale precision, creating materials in which structure controls the interaction of light and matter.
+We employ a combination of molecular and metallic fluorophores to engineer tunable interactions between light and matter. The key advance is the use of topological enforcement from 3D DNA tiles in order to control templated metalation and fluorophore interactions, allowing for spatial control over molecular lightbulbs.
+
 
 [Explore this research →](research/nanophotonics/index.qmd){.panel-link}
 
@@ -104,7 +104,8 @@ We use programmable nucleic-acid architectures to organize optical components wi
 ![](assets/images/research/photon.jpg)
 
 <p class="panel-caption">
-Add image description and citation here.
+Silver nanoclusters are formed in situ to generate novel optical materials.
+<a href="https://doi.org/10.26434/chemrxiv-2025-3f6br-v2">Perren et al., Science Advances (2026), in press.</a>
 </p>
 
 :::
@@ -120,7 +121,8 @@ Add image description and citation here.
 
 ## (A)Biomorphogenesis
 
-We explore how molecular information propagates across length scales to generate form, using DNA to build and study crystalline, topological, inorganic, and hybrid materials.
+ We further develop shape-encoded architectures, in which we harness the entropic nature of self-assembly to dive complex organization of DNA components at long range. In
+doing so, we will establish information thresholds and design rules for differentiation and morphogenesis.
 
 [Explore this research →](research/abiomorphogenesis/index.qmd){.panel-link}
 
@@ -131,7 +133,8 @@ We explore how molecular information propagates across length scales to generate
 ![](assets/images/research/confocal.jpg)
 
 <p class="panel-caption">
-Add image description and citation here.
+Here we show a union of mirror image tiles, L- and D-DNA, programmed to interact and form an ordered lattice or controlled shape using tunable stacking interactions.
+<a href="https://doi.org/10.1038/s41467-026-69973-1">Woloszyn et al., Nature Communications (2026), 17, 3136.</a>
 </p>
 
 :::
@@ -147,7 +150,8 @@ Add image description and citation here.
 
 ## Origins of Life and Astrobiology
 
-We investigate how interactions between nucleic acids, metals, and self-assembling molecular systems could have contributed to the emergence of structure, function, and catalysis in early chemical evolution.
+Our work began as a summer internship at NASA when Simon proposed an E. coli radio <a href="https://2013.igem.org/Team:Stanford-Brown/Projects/BioWires"> (2013 Stanford-Brown iGEM)</a>. Since then, NASA participation has been deeply embedded in the work, and we now explore DNA as a viable space technology. We further explore the role that metalated nucleic acids had in the devleopment of early life on Earth, and ultimately enabling human space exploration.
+
 
 [Explore this research →](research/origins-of-life/index.qmd){.panel-link}
 
@@ -155,12 +159,11 @@ We investigate how interactions between nucleic acids, metals, and self-assembli
 
 ::: {.research-panel-image}
 
-![](assets/images/research/space.jpg)
+![](assets/images/research/space2.jpg)
 
 <p class="panel-caption">
 Metalated DNA crystals launched aboard SpaceX NG-24 for long-term stability test on ISS, 11 April, 2026 
 <a href="https://www.dvidshub.net/image/9617831/cygnus-ng-24-launches-cape-canaveral-space-force-station"> U.S. Space Force / DVIDS</a>
-
 </p>
 
 :::
@@ -189,7 +192,8 @@ We emphasize writing thorough, accessible reviews for new students, written by c
 ![](assets/images/research/Community.jpg)
 
 <p class="panel-caption">
-Add image description and citation here.
+Review of realsapce and reciprocal space topology was written to unify concepts in disparate fields to spark dialogue and explore DNA as a materials design language in both spaces.
+<a href="https://doi.org/10.26434/chemrxiv-2025-swzkq"> Vecchioni et al, ChemRxiv (2025)</a>
 </p>
 
 :::

@@ -58,37 +58,37 @@
   {
     "objectID": "research/metal-mediated-nucleic-acids/index.html",
     "href": "research/metal-mediated-nucleic-acids/index.html",
-    "title": "Metal-Mediated Nucleic Acids",
+    "title": "A Metal Design Language",
     "section": "",
-    "text": "Replace this text with an accessible introduction to the programme."
+    "text": "We develop a bioinorganic programming language in which metal coordination is used to encode structure, function, and information into nucleic acids."
   },
   {
     "objectID": "research/metal-mediated-nucleic-acids/index.html#overview",
     "href": "research/metal-mediated-nucleic-acids/index.html#overview",
-    "title": "Metal-Mediated Nucleic Acids",
-    "section": "",
-    "text": "Replace this text with an accessible introduction to the programme."
+    "title": "A Metal Design Language",
+    "section": "Overview",
+    "text": "Overview\nThe central idea of the lab is that the hydrogen-bonding language of nucleic acids can be expanded using metal coordination chemistry.\nBy replacing selected hydrogen bonds with coordination bonds, we aim to create nucleic-acid systems that interact directly with electrons, light, magnetic fields, and biochemical inputs while retaining the programmability of DNA self-assembly."
   },
   {
     "objectID": "research/metal-mediated-nucleic-acids/index.html#current-directions",
     "href": "research/metal-mediated-nucleic-acids/index.html#current-directions",
-    "title": "Metal-Mediated Nucleic Acids",
+    "title": "A Metal Design Language",
     "section": "Current directions",
-    "text": "Current directions\n\nMetal-mediated base pairing\nTransmetalation and switching\nMolecular electronics\nStructural and spectroscopic characterization"
+    "text": "Current directions\n\nMetal-mediated base pairing\nDesigning synthetic and natural nucleobase combinations that selectively coordinate transition metals and other ions.\n\n\nMultimetallic architectures\nUsing DNA to position multiple metals with atomic-scale precision and create emergent electronic, magnetic, catalytic, or optical behavior.\n\n\nInverse design\nDeveloping computational tools that connect coordination chemistry, nucleic-acid geometry, and synthetic accessibility."
   },
   {
     "objectID": "research/metal-mediated-nucleic-acids/index.html#selected-work",
     "href": "research/metal-mediated-nucleic-acids/index.html#selected-work",
-    "title": "Metal-Mediated Nucleic Acids",
+    "title": "A Metal Design Language",
     "section": "Selected work",
-    "text": "Selected work\nAdd publications and project highlights here."
+    "text": "Selected work\nAdd representative publications here."
   },
   {
     "objectID": "research/index.html",
     "href": "research/index.html",
     "title": "Research",
     "section": "",
-    "text": "Each research area below is a separate modular folder. Edit its index.qmd metadata to change the title, subtitle, summary, image, or ordering.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDNA Crystal Engineering\n\n\nProgramming periodic matter from nucleic acids\n\n\nDesign, assembly, topology, and structural analysis of three-dimensional DNA crystals.\n\n\n\n\n\n\n\n\n\n\n\n\nMetal-Mediated Nucleic Acids\n\n\nCoordination chemistry inside programmable biomolecular systems\n\n\nMetal-directed structures, transmetalation, catalysis, and molecular electronic function.\n\n\n\n\n\n\n\n\n\n\n\n\nProgrammable Hybrid Materials\n\n\nTranslating molecular information into inorganic structure\n\n\nDNA-directed mineralization, replication, coating, and fabrication of hybrid materials.\n\n\n\n\n\n\n\n\n\n\n\n\nOrigins and Catalysis\n\n\nMetal–nucleic-acid interactions before modern biology\n\n\nExploring how simple nucleic-acid and metal assemblies could support structure and catalysis.\n\n\n\n\n\nNo matching items"
+    "text": "Each research area below is a separate modular folder. Edit its index.qmd metadata to change the title, subtitle, summary, image, or ordering.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDNA Crystal Engineering\n\n\nProgramming periodic matter from nucleic acids\n\n\nDesign, assembly, topology, and structural analysis of three-dimensional DNA crystals.\n\n\n\n\n\n\n\n\n\n\n\n\nProgrammable Hybrid Materials\n\n\nTranslating molecular information into inorganic structure\n\n\nDNA-directed mineralization, replication, coating, and fabrication of hybrid materials.\n\n\n\n\n\n\n\n\n\n\n\n\nOrigins and Catalysis\n\n\nMetal–nucleic-acid interactions before modern biology\n\n\nExploring how simple nucleic-acid and metal assemblies could support structure and catalysis.\n\n\n\n\n\n\n\n\n\n\nA Metal Design Language\n\n\nRemodeling the double helix atom by atom\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "research/origins-and-catalysis/index.html",
@@ -214,21 +214,21 @@
     "href": "index.html#nanophotonics-in-dna",
     "title": "Vecchioni Lab",
     "section": "Nanophotonics in DNA",
-    "text": "Nanophotonics in DNA\nWe use programmable nucleic-acid architectures to organize optical components with nanoscale precision, creating materials in which structure controls the interaction of light and matter.\nExplore this research →"
+    "text": "Nanophotonics in DNA\nWe employ a combination of molecular and metallic fluorophores to engineer tunable interactions between light and matter. The key advance is the use of topological enforcement from 3D DNA tiles in order to control templated metalation and fluorophore interactions, allowing for spatial control over molecular lightbulbs.\nExplore this research →"
   },
   {
     "objectID": "index.html#abiomorphogenesis",
     "href": "index.html#abiomorphogenesis",
     "title": "Vecchioni Lab",
     "section": "(A)Biomorphogenesis",
-    "text": "(A)Biomorphogenesis\nWe explore how molecular information propagates across length scales to generate form, using DNA to build and study crystalline, topological, inorganic, and hybrid materials.\nExplore this research →"
+    "text": "(A)Biomorphogenesis\nWe further develop shape-encoded architectures, in which we harness the entropic nature of self-assembly to dive complex organization of DNA components at long range. In doing so, we will establish information thresholds and design rules for differentiation and morphogenesis.\nExplore this research →"
   },
   {
     "objectID": "index.html#origins-of-life-and-astrobiology",
     "href": "index.html#origins-of-life-and-astrobiology",
     "title": "Vecchioni Lab",
     "section": "Origins of Life and Astrobiology",
-    "text": "Origins of Life and Astrobiology\nWe investigate how interactions between nucleic acids, metals, and self-assembling molecular systems could have contributed to the emergence of structure, function, and catalysis in early chemical evolution.\nExplore this research →"
+    "text": "Origins of Life and Astrobiology\nOur work began as a summer internship at NASA when Simon proposed an E. coli radio  (2013 Stanford-Brown iGEM). Since then, NASA participation has been deeply embedded in the work, and we now explore DNA as a viable space technology. We further explore the role that metalated nucleic acids had in the devleopment of early life on Earth, and ultimately enabling human space exploration.\nExplore this research →"
   },
   {
     "objectID": "index.html#building-community",
