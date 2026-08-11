@@ -6,9 +6,8 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
-<meta name="description" content="Metal-directed structures, transmetalation, catalysis, and molecular electronic function.">
 
-<title>Metal-Mediated Nucleic Acids – Vecchioni Lab</title>
+<title>A Metal Design Language – Vecchioni Lab</title>
 <style>
 /* Default styles provided by pandoc.
 ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
@@ -80,11 +79,11 @@ ul.task-list li input[type="checkbox"] {
 <link rel="stylesheet" href="../../assets/css/styles.css">
 </head>
 
-<body class="nav-fixed fullcontent quarto-light">
+<body class="nav-fixed quarto-light">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
-    <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
+    <nav class="navbar navbar-expand-xl " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
     <a class="navbar-brand" href="../../index.html">
@@ -137,27 +136,22 @@ ul.task-list li input[type="checkbox"] {
     </nav>
 </header>
 <!-- content -->
-<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
     
 <!-- main -->
-<main class="content" id="quarto-document-content">
+<main class="content column-page" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Metal-Mediated Nucleic Acids</h1>
-<p class="subtitle lead">Coordination chemistry inside programmable biomolecular systems</p>
-</div>
-
-<div>
-  <div class="description">
-    Metal-directed structures, transmetalation, catalysis, and molecular electronic function.
-  </div>
+<h1 class="title">A Metal Design Language</h1>
+<p class="subtitle lead">Remodeling the double helix atom by atom</p>
 </div>
 
 
-<div class="quarto-title-meta">
+
+<div class="quarto-title-meta column-page">
 
     
   
@@ -169,22 +163,39 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
+<section id="a-metal-design-language" class="level1 research-page-hero">
+<h1>A Metal Design Language</h1>
+<p>We develop a bioinorganic programming language in which metal coordination is used to encode structure, function, and information into nucleic acids.</p>
+</section>
+<div class="research-page-image">
+<p><img src="../../assets/images/research/metal-design-language.jpg" class="img-fluid"></p>
+<p class="panel-caption">
+Add image description here. <a href="YOUR-LINK">Citation.</a>
+</p>
+</div>
 <section id="overview" class="level2">
 <h2 class="anchored" data-anchor-id="overview">Overview</h2>
-<p>Replace this text with an accessible introduction to the programme.</p>
+<p>The central idea of the lab is that the hydrogen-bonding language of nucleic acids can be expanded using metal coordination chemistry.</p>
+<p>By replacing selected hydrogen bonds with coordination bonds, we aim to create nucleic-acid systems that interact directly with electrons, light, magnetic fields, and biochemical inputs while retaining the programmability of DNA self-assembly.</p>
 </section>
 <section id="current-directions" class="level2">
 <h2 class="anchored" data-anchor-id="current-directions">Current directions</h2>
-<ul>
-<li>Metal-mediated base pairing</li>
-<li>Transmetalation and switching</li>
-<li>Molecular electronics</li>
-<li>Structural and spectroscopic characterization</li>
-</ul>
+<section id="metal-mediated-base-pairing" class="level3">
+<h3 class="anchored" data-anchor-id="metal-mediated-base-pairing">Metal-mediated base pairing</h3>
+<p>Designing synthetic and natural nucleobase combinations that selectively coordinate transition metals and other ions.</p>
+</section>
+<section id="multimetallic-architectures" class="level3">
+<h3 class="anchored" data-anchor-id="multimetallic-architectures">Multimetallic architectures</h3>
+<p>Using DNA to position multiple metals with atomic-scale precision and create emergent electronic, magnetic, catalytic, or optical behavior.</p>
+</section>
+<section id="inverse-design" class="level3">
+<h3 class="anchored" data-anchor-id="inverse-design">Inverse design</h3>
+<p>Developing computational tools that connect coordination chemistry, nucleic-acid geometry, and synthetic accessibility.</p>
+</section>
 </section>
 <section id="selected-work" class="level2">
 <h2 class="anchored" data-anchor-id="selected-work">Selected work</h2>
-<p>Add publications and project highlights here.</p>
+<p>Add representative publications here.</p>
 
 
 </section>
@@ -263,7 +274,7 @@ ul.task-list li input[type="checkbox"] {
     }
       var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
       var mailtoRegex = new RegExp(/^mailto:/);
-        var filterRegex = new RegExp("https:\/\/vecchioni-lab\.github\.io");
+        var filterRegex = new RegExp('/' + window.location.host + '/');
       var isInternal = (href) => {
           return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
       }
