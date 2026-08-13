@@ -4,4 +4,4 @@ subtitle: "Updates from the lab"
 ---
 
 Hello Lab!
-@2026
+@2026-08
