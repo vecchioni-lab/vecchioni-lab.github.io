@@ -183,7 +183,6 @@ We build tools, databases, shared resources, and scientific communities that mak
 
 We emphasize writing thorough, accessible reviews for new students, written by curious humans, for curious humans; developing software tools for understanding and analyzing DNA crystals; building databases to house and disseminate the field; and establishing an inclusive, open, and kind scientific community where creativity and curiosity dominate the scientific process.
 
-[Explore our community and mission →](research/building-community/index.qmd){.panel-link}
 
 :::
 
