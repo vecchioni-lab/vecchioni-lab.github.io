@@ -2,10 +2,10 @@
   {
     "listing": "/research/index.html",
     "items": [
-      "/research/dna-crystals/index.html",
-      "/research/programmable-materials/index.html",
-      "/research/origins-and-catalysis/index.html",
-      "/research/metal-mediated-nucleic-acids/index.html"
+      "/research/topology/index.html",
+      "/research/electronics/index.html",
+      "/research/astro/index.html",
+      "/research/mmDNA/index.html"
     ]
   }
 ]

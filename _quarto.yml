@@ -11,9 +11,9 @@ website:
     collapse-below: xl
 
     left:
-      - href: metalated-dna/index.qmd
+      - href: research/mmDNA/index.qmd
         text: "Metalated DNA"
-      - href: dna-topology/index.qmd
+      - href: research/topology/index.qmd
         text: "DNA Topology"
       - href: people.qmd
         text: "People"
