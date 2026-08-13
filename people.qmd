@@ -16,7 +16,7 @@ Principal Investigator · Imperial College London
 ::: {.pi-profile}
 
 ::: {.pi-profile-image}
-![](assets/images/people_photos/Simon.png)
+![](assets/images/people/Simon.png)
 :::
 
 ::: {.pi-profile-text}
