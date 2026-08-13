@@ -29,35 +29,98 @@ body {
   padding: 0;
 }
 
+#title-block-header { display: none; }
+
+main#quarto-document-content {
+  margin-top: 0 !important;
+  padding-top: 0 !important;
+}
+
+/* =========================================================
+   NAVIGATION / DESKTOP
+   ========================================================= */
+
 .navbar {
   position: sticky;
   top: 0;
   z-index: 1000;
-
+  min-height: 118px;
+  padding: 0;
+  overflow: visible;
   background: rgba(7, 18, 27, 0.96);
   backdrop-filter: blur(12px);
-
-  border-bottom: 1px solid rgba(255,255,255,.05);
+  border-bottom: 1px solid rgba(255, 255, 255, 0.05);
 }
 
 .navbar .container-fluid {
   max-width: var(--max-width);
   margin: 0 auto;
+  display: grid;
+  grid-template-columns: 150px 1fr;
+  grid-template-rows: 38px 50px;
+  align-items: center;
+  position: relative;
+  overflow: visible;
 }
 
 .navbar-brand {
+  grid-column: 1;
+  grid-row: 1 / 3;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  margin: 0;
+  padding: 8px 20px 8px 0;
+  white-space: nowrap;
+  overflow: visible !important;
+  flex-shrink: 0;
   color: var(--text) !important;
   font-family: Georgia, "Times New Roman", serif;
-  font-size: 2rem;
   font-weight: 400;
-  letter-spacing: -0.025em;
+}
+
+.navbar-brand .navbar-title,
+.navbar-brand span {
+  display: none !important;
+}
+
+.navbar-brand img {
+  height: 100px !important;
+  width: auto !important;
+  max-height: none !important;
+  object-fit: contain;
+  transform: translateY(27px);
+}
+
+.navbar .container-fluid::before {
+  content: "VECCHIONI LAB";
+  grid-column: 2;
+  grid-row: 1;
+  align-self: end;
+  padding-left: 0.7rem;
+  padding-bottom: 2px;
+  color: var(--text);
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 1.05rem;
+  font-weight: 400;
+  letter-spacing: 0.08em;
+  white-space: nowrap;
+}
+
+.navbar-collapse {
+  grid-column: 2;
+  grid-row: 2;
+  width: 100%;
+  align-self: center;
+  padding-right: 4rem;
 }
 
 .navbar-nav .nav-link {
   color: var(--text) !important;
-  padding-left: 1rem !important;
-  padding-right: 1rem !important;
-  font-size: 0.86rem;
+  white-space: nowrap;
+  padding-left: 0.7rem !important;
+  padding-right: 0.7rem !important;
+  font-size: 0.82rem;
   letter-spacing: 0.12em;
   text-transform: uppercase;
 }
@@ -66,9 +129,25 @@ body {
   color: var(--accent) !important;
 }
 
+.navbar .aa-DetachedSearchButton {
+  position: absolute !important;
+  right: 1.5rem;
+  top: 45px;
+  margin: 0 !important;
+  z-index: 10;
+}
+
+/* =========================================================
+   HERO
+   ========================================================= */
+
 .concept-hero {
   position: relative;
+  width: 100vw;
+  max-width: none;
   min-height: 740px;
+  margin-left: calc(50% - 50vw);
+  margin-right: calc(50% - 50vw);
   overflow: hidden;
   isolation: isolate;
   background: #071722;
@@ -100,15 +179,31 @@ body {
       rgba(3, 14, 23, 0.22) 100%);
 }
 
+.concept-hero::after {
+  content: "";
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  height: 110px;
+  pointer-events: none;
+  z-index: -1;
+  background: linear-gradient(
+    to bottom,
+    rgba(18, 38, 54, 0) 0%,
+    rgba(18, 38, 54, 0.10) 75%,
+    rgba(18, 38, 54, 0.28) 100%
+  );
+}
+
 .hero-content {
   max-width: var(--max-width);
-  margin: 0 auto;
   min-height: 740px;
-  padding: 9.5rem 4rem 6rem;
+  margin: 0 auto;
+  padding: 3.8rem 4rem 6rem;
   display: flex;
   flex-direction: column;
   justify-content: flex-start;
-  padding-top: 3.8rem;
   align-items: flex-start;
 }
 
@@ -150,7 +245,7 @@ body {
 .hero-button {
   display: inline-block;
   margin-top: 2.2rem;
-  padding: 0 0 0.25rem 0;
+  padding: 0 0 0.25rem;
   border: none;
   border-bottom: 1px solid rgba(128, 198, 216, 0.65);
   color: var(--accent);
@@ -166,11 +261,15 @@ body {
   border-bottom-color: var(--text);
 }
 
+/* =========================================================
+   HOMEPAGE RESEARCH INTRO
+   ========================================================= */
+
 .research-opening {
   padding: 1.2rem 2rem 2rem;
   text-align: center;
   background: linear-gradient(180deg, #112536 0%, #102332 100%);
-  border-top: 1px solid rgba(255,255,255,.04);
+  border-top: 1px solid rgba(255, 255, 255, 0.04);
 }
 
 .research-opening .section-eyebrow {
@@ -187,6 +286,82 @@ body {
   line-height: 1.08;
   letter-spacing: -0.03em;
 }
+
+/* =========================================================
+   RESEARCH PANELS
+   ========================================================= */
+
+.research-panel {
+  display: grid;
+  grid-template-columns: 0.9fr 1.1fr;
+  gap: 3rem;
+  align-items: center;
+  max-width: var(--max-width);
+  margin: 0 auto;
+  padding: 6rem 2rem;
+  border-top: 1px solid var(--border);
+}
+
+.research-panel-text {
+  max-width: 520px;
+}
+
+.panel-number {
+  margin-bottom: 0.8rem;
+  color: var(--accent);
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 2rem;
+}
+
+.research-panel h2 {
+  margin: 0 0 1rem;
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 2.4rem;
+  font-weight: 400;
+}
+
+.research-panel-text p {
+  color: var(--muted);
+  text-align: justify;
+}
+
+.research-panel-image img {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+.research-panel-image .panel-caption {
+  margin: 0.6rem 0 0;
+  color: var(--muted);
+  font-family: Inter, "Helvetica Neue", Arial, sans-serif;
+  font-size: 0.78rem !important;
+  font-weight: 400;
+  line-height: 1.4 !important;
+  text-align: justify;
+}
+
+.panel-link {
+  color: var(--accent);
+  text-decoration: none;
+  border-bottom: 1px solid rgba(128, 198, 216, 0.4);
+}
+
+.research-panel:nth-of-type(even) .research-panel-text {
+  order: 2;
+}
+
+.research-panel:nth-of-type(even) .research-panel-image {
+  order: 1;
+}
+
+.research-panel-vision {
+  background: rgba(128, 198, 216, 0.035);
+}
+
+/* =========================================================
+   LEGACY RESEARCH STRIP
+   ========================================================= */
 
 .research-strip {
   display: grid;
@@ -215,176 +390,12 @@ body {
   font-weight: 400;
 }
 
-.research-item p {
-  color: var(--muted);
-}
+.research-item p { color: var(--muted); }
+.research-item a { color: var(--accent); }
 
-.research-item a {
-  color: var(--accent);
-}
-
-.page-footer {
-  background: #071722;
-  color: var(--muted);
-  border-top: 1px solid var(--border);
-}
-
-@media (max-width: 900px) {
-  .navbar {
-    min-height: 72px;
-    padding: 0 1rem;
-  }
-
-  .navbar-brand {
-    font-size: 1.55rem;
-  }
-
-  .concept-hero,
-  .hero-content {
-    min-height: 680px;
-  }
-
-  .hero-content {
-    padding: 7rem 1.4rem 4rem;
-  }
-
-  .hero-image {
-    background-position: 72% center;
-  }
-
-  .hero-shade {
-    background:
-      linear-gradient(90deg,
-        rgba(4, 18, 28, 0.98) 0%,
-        rgba(4, 18, 28, 0.88) 52%,
-        rgba(4, 18, 28, 0.32) 100%);
-  }
-
-  .concept-hero h1 {
-    max-width: 540px;
-    font-size: clamp(3rem, 13vw, 4.8rem);
-  }
-
-  .research-strip {
-    grid-template-columns: 1fr;
-    padding: 0 1.2rem 3rem;
-  }
-
-  .research-item,
-  .research-item:first-child {
-    border-left: 1px solid var(--border);
-    border-right: 1px solid var(--border);
-  }
-
-}
-#title-block-header {
-  display: none;
-}
-
-/* Make homepage hero span the full browser width */
-.concept-hero {
-  width: 100vw;
-  max-width: none;
-  margin-left: calc(50% - 50vw);
-  margin-right: calc(50% - 50vw);
-}
-
-/* Remove Quarto's gap between the navbar and homepage hero */
-main#quarto-document-content {
-  margin-top: 0 !important;
-  padding-top: 0 !important;
-}
-
-.concept-hero::after {
-  content: "";
-  position: absolute;
-  left: 0;
-  right: 0;
-  bottom: 0;
-  height: 110px;
-  pointer-events: none;
-  background: linear-gradient(
-  to bottom,
-  rgba(18, 38, 54, 0.00) 0%,
-  rgba(18, 38, 54, 0.10) 75%,
-  rgba(18, 38, 54, 0.28) 100%
-);
-  z-index: -1;
-}
-
-.research-panel {
-  display: grid;
-  grid-template-columns: 0.9fr 1.1fr;
-  gap: 3rem;
-  align-items: center;
-  max-width: var(--max-width);
-  margin: 0 auto;
-  padding: 6rem 2rem;
-  border-top: 1px solid var(--border);
-}
-
-.research-panel-text {
-  max-width: 520px;
-}
-
-.panel-number {
-  color: var(--accent);
-  font-family: Georgia, "Times New Roman", serif;
-  font-size: 2rem;
-  margin-bottom: 0.8rem;
-}
-
-.research-panel h2 {
-  margin: 0 0 1rem;
-  font-family: Georgia, "Times New Roman", serif;
-  font-weight: 400;
-  font-size: 2.4rem;
-}
-
-.research-panel-text p {
-  color: var(--muted);
-  text-align: justify;
-}
-
-.research-panel-image img {
-  width: 100%;
-  display: block;
-}
-
-.research-panel-image .panel-caption {
-  margin: 0.6rem 0 0 0;
-  font-family: Inter, "Helvetica Neue", Arial, sans-serif;
-  font-size: 0.78rem !important;
-  line-height: 1.4 !important;
-  font-weight: 400;
-  color: var(--muted);
-  text-align: justify;
-}
-
-.panel-link {
-  color: var(--accent);
-  text-decoration: none;
-  border-bottom: 1px solid rgba(128,198,216,.4);
-}
-
-/* Alternate research panels as the page scrolls */
-.research-panel:nth-of-type(even) .research-panel-text {
-  order: 2;
-}
-
-.research-panel:nth-of-type(even) .research-panel-image {
-  order: 1;
-}
-
-.research-panel-vision {
-  background: rgba(128, 198, 216, 0.035);
-}
-
-.research-panel-image img {
-  width: 100%;
-  height: auto;
-  display: block;
-}
+/* =========================================================
+   PUBLICATIONS / RESEARCH PAGES
+   ========================================================= */
 
 .publication {
   margin: 0 0 1.6rem;
@@ -425,132 +436,21 @@ main#quarto-document-content {
   margin: 3rem auto;
 }
 
-.navbar-nav .nav-link {
-  white-space: nowrap;
-  padding-left: 0.7rem !important;
-  padding-right: 0.7rem !important;
-  font-size: 0.82rem;
+/* =========================================================
+   FOOTER
+   ========================================================= */
+
+.page-footer {
+  background: #071722;
+  color: var(--muted);
+  border-top: 1px solid var(--border);
 }
 
-.navbar-brand {
-  white-space: nowrap;
-  overflow: visible;
-  text-overflow: clip;
-  flex-shrink: 0;
-}
+/* =========================================================
+   COLLAPSED / TABLET HEADER
+   ========================================================= */
 
-.navbar-brand img {
-  max-height: none !important;
-  height: 72px !important;
-  width: auto !important;
-}
-
-/* ===== VECCHIONI TWO-ROW HEADER ===== */
-
-.navbar {
-  min-height: 118px;
-  padding: 0;
-  overflow: visible;
-}
-
-.navbar .container-fluid {
-  max-width: var(--max-width);
-  margin: 0 auto;
-
-  display: grid;
-  grid-template-columns: 150px 1fr;
-  grid-template-rows: 38px 50px;
-  align-items: center;
-
-  position: relative;
-  overflow: visible;
-}
-
-/* BIG LOGO — spans both rows */
-.navbar-brand {
-  grid-column: 1;
-  grid-row: 1 / 3;
-
-  margin: 0;
-  padding: 8px 20px 8px 0;
-
-  display: flex;
-  align-items: center;
-  justify-content: flex-start;
-
-  overflow: visible !important;
-}
-
-/* Hide Quarto's normal Vecchioni Lab text */
-.navbar-brand .navbar-title,
-.navbar-brand span {
-  display: none !important;
-}
-
-.navbar-brand img {
-  height: 100px !important;
-  width: auto !important;
-  max-height: none !important;
-  object-fit: contain;
-}
-
-/* Small identity line ABOVE the navigation */
-.navbar .container-fluid::before {
-  content: "VECCHIONI LAB";
-
-  grid-column: 2;
-  grid-row: 1;
-
-  align-self: end;
-
-  color: var(--text);
-  font-family: Georgia, "Times New Roman", serif;
-  font-size: 1.05rem;
-  font-weight: 400;
-  letter-spacing: 0.08em;
-
-  padding-left: 0.7rem;
-  padding-bottom: 2px;
-}
-
-/* Quarto's normal navigation occupies row 2 */
-.navbar-collapse {
-  grid-column: 2;
-  grid-row: 2;
-  padding-right: 4rem;
-  width: 100%;
-  align-self: center;
-  
-}
-
-/* Don't let menu labels break */
-.navbar-nav .nav-link {
-  white-space: nowrap;
-}
-
-.navbar-brand img {
-  transform: translateY(27px);
-}
-
-.navbar-search {
-  grid-column: 2;
-  grid-row: 2;
-  justify-self: end;
-  align-self: center;
-  margin-left: 1rem;
-}
-
-.navbar .aa-DetachedSearchButton {
-  position: absolute !important;
-  right: 1.5rem;
-  top: 45px;
-  margin: 0 !important;
-  z-index: 10;
-}
-
-/* ===== COLLAPSED / TABLET HEADER ===== */
 @media (max-width: 1199.98px) {
-
   .navbar {
     height: 74px;
     min-height: 74px;
@@ -558,95 +458,139 @@ main#quarto-document-content {
   }
 
   .navbar .container-fluid {
-    position: relative !important;
     display: block !important;
+    position: relative !important;
     width: 100%;
+    max-width: none;
     height: 74px;
     min-height: 74px;
+    margin: 0;
   }
 
-  /* Kill all desktop/generated title treatments */
   .navbar .container-fluid::before {
-    display: none !important;
-    content: none !important;
+    content: "VECCHIONI LAB" !important;
+    display: block !important;
+    position: absolute;
+    left: 5.6rem;
+    top: 50%;
+    transform: translateY(-50%);
+    margin: 0;
+    padding: 0;
+    color: var(--text);
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 1.15rem;
+    font-weight: 400;
+    letter-spacing: 0.04em;
+    white-space: nowrap;
   }
 
-  .navbar-title {
-    display: none !important;
-  }
-
-  /* Brand unit pinned LEFT */
   .navbar-brand {
     position: absolute !important;
-    left: 1.5rem;
+    left: 1.25rem;
     top: 50%;
     transform: translateY(-50%);
-
-    display: flex !important;
-    align-items: center;
-    gap: 0.8rem;
-
+    display: block !important;
+    width: 54px;
+    height: 54px;
     margin: 0 !important;
     padding: 0 !important;
+    font-size: 0 !important;
+    line-height: 0 !important;
+    color: transparent !important;
+    overflow: hidden !important;
+    background: url("../images/Logos/LogoC.png") center / contain no-repeat;
   }
 
-.navbar-brand {
-  position: absolute !important;
-  left: 1.5rem;
-  top: 50%;
-  transform: translateY(-50%);
+  .navbar-brand > *,
+  .navbar-brand img {
+    display: none !important;
+  }
 
-  display: flex !important;
-  align-items: center;
-  gap: 0.8rem;
+  .navbar-brand::after {
+    content: none !important;
+    display: none !important;
+  }
 
-  margin: 0 !important;
-  padding: 0 !important;
-
-  /* Hide Quarto's built-in raw brand text */
-  font-size: 0 !important;
-  color: transparent !important;
-}
-
-.navbar-brand::after {
-  content: "VECCHIONI LAB";
-  display: block;
-
-  color: var(--text) !important;
-  font-family: Georgia, "Times New Roman", serif;
-  font-size: 1.15rem !important;
-  font-weight: 400;
-  letter-spacing: 0.04em;
-  white-space: nowrap;
-}
-
-  /* Hamburger pinned RIGHT */
   .navbar-toggler {
     position: absolute !important;
-    right: 1.5rem;
+    right: 1.25rem;
     top: 50%;
     transform: translateY(-50%);
-
     margin: 0 !important;
     padding: 0.4rem;
   }
 
-  /* No separate search icon */
   .aa-DetachedSearchButton {
     display: none !important;
   }
 
-  /* Menu opens underneath */
   .navbar-collapse {
     position: absolute !important;
     top: 74px;
     left: 0;
     right: 0;
-
     width: 100%;
     padding: 1rem 1.5rem 1.5rem;
-
     background: rgba(7, 18, 27, 0.98);
     z-index: 1000;
+  }
+}
+
+/* =========================================================
+   SMALL SCREEN CONTENT
+   ========================================================= */
+
+@media (max-width: 900px) {
+  .concept-hero,
+  .hero-content {
+    min-height: 680px;
+  }
+
+  .hero-content {
+    padding: 7rem 1.4rem 4rem;
+  }
+
+  .hero-image {
+    background-position: 72% center;
+  }
+
+  .hero-shade {
+    background:
+      linear-gradient(90deg,
+        rgba(4, 18, 28, 0.98) 0%,
+        rgba(4, 18, 28, 0.88) 52%,
+        rgba(4, 18, 28, 0.32) 100%);
+  }
+
+  .concept-hero h1 {
+    max-width: 540px;
+    font-size: clamp(3rem, 13vw, 4.8rem);
+  }
+
+  .research-strip {
+    grid-template-columns: 1fr;
+    padding: 0 1.2rem 3rem;
+  }
+
+  .research-item,
+  .research-item:first-child {
+    border-left: 1px solid var(--border);
+    border-right: 1px solid var(--border);
+  }
+
+  .research-panel {
+    grid-template-columns: 1fr;
+    gap: 2rem;
+    padding: 4rem 1.4rem;
+  }
+
+  .research-panel-text,
+  .research-panel-image {
+    order: initial !important;
+    max-width: none;
+  }
+
+  .secondary-image {
+    width: 100%;
   }
 }
