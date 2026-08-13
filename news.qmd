@@ -3,4 +3,5 @@ title: "News"
 subtitle: "Updates from the lab"
 ---
 
-Add short dated updates here, or convert this page into a Quarto blog later.
+Hello Lab!
+@2026

@@ -6,6 +6,8 @@ page-layout: full
 
 ::: {.research-page-hero}
 
+<p class="page-eyebrow">METALATED DNA</p>
+
 # A Metal Design Language
 
 We develop a bioinorganic programming language in which metal coordination is used to encode structure, function, and information into nucleic acids.
@@ -70,89 +72,89 @@ Finally, we aim to develop a coding language that reads metals as an input to st
 ## Selected work from the lab:
 
 <div class="publication">
-  Toomey, E., Xu, J., <span class="pub-me">Vecchioni, S.</span>, et al.
+  Liu, B., Lu, B., De, A., Kim, K., Perren, L., Woloszyn, K., Petrova, G., Li, R., Yang, C.-F., Mao, C., Botana, A.S., Ohayon, Y.P., Canary, J.W., Sha, R., Anantram, M.P., <span class="pub-me">Vecchioni, S.</span>†, Hihath, J.†
   <span class="pub-meta">
-    <span class="pub-journal">J. Phys. Chem. C</span> · <strong>2016</strong> · 120(14)
+    <span class="pub-journal">Matter</span> · <strong><a href="https://doi.org/10.1016/j.matt.2025.102470">2026</a></strong> · 9(1) · 102470
   </span>
-  <span class="pub-title">Comparison of Canonical vs Silver(I)-Mediated Base-Pairing on Single Molecule Conductance in Polycytosine dsDNA.</span>
+  <span class="pub-title">Electrical Control of a Metal-Mediated DNA Memory.</span>
 </div>
 
 <div class="publication">
-  <span class="pub-me">Vecchioni, S.</span>, Wind, S.J.
+  De, A., Lu, B., Ohayon, Y.P., Woloszyn, K., Livernois, W., Perren, L., Yang, C.-F., Mao, C., Botana, A.S., Hihath, J., Canary, J.W., Sha, R., Anantram, M.P.†, <span class="pub-me">Vecchioni, S.</span>†
   <span class="pub-meta">
-    <span class="pub-journal">US Patent US20170294608A1</span> · <strong>2017</strong>
+    <span class="pub-journal">Small</span> · <strong><a href="https://doi.org/10.1002/smll.202411518">2025</a></strong> · 21(25) · 2411518
   </span>
-  <span class="pub-title">Self-assembled, electronically-functional nucleic acid nanostructures and networks based on the use of orthogonal base pairs.</span>
+  <span class="pub-title">Transmetalation for DNA-Based Molecular Electronics.</span>
 </div>
 
 <div class="publication">
-  <span class="pub-me">Vecchioni, S.</span> et al.
+  <span class="pub-me">Vecchioni, S.</span>†, Lo, R., Huang, Q., Wang, K., Ohayon, Y.P., Sha, R., Rothschild, L.J., Wind, S.J.
   <span class="pub-meta">
-    <span class="pub-journal">J. Self-Assembly and Molecular Electronics</span> · <strong>2018</strong> · 6 · 61
-  </span>
-  <span class="pub-title">Methods of Synthesis and Characterization of Conductive DNA Nanowires for Single-Molecule Electronics.</span>
-</div>
-
-<div class="publication">
-  <span class="pub-me">Vecchioni, S.</span> et al.
-  <span class="pub-meta">
-    <span class="pub-journal">Scientific Reports</span> · <strong>2019</strong> · 9(1)
-  </span>
-  <span class="pub-title">Construction and characterization of metal ion-containing DNA nanowires for synthetic biology and nanotechnology.</span>
-</div>
-
-<div class="publication">
-  <span class="pub-me">Vecchioni, S.</span> et al.
-  <span class="pub-meta">
-    <span class="pub-journal">J. Self-Assembly and Molecular Electronics</span> · <strong>2023</strong> · 17–76
-  </span>
-  <span class="pub-title">DNA by Design: De novo computational framework for DNA sequence design and nanotechnology.</span>
-</div>
-
-<div class="publication">
-  <span class="pub-me">Vecchioni, S.</span>*†, Lu, B.*, …, Sha, R.†
-  <span class="pub-meta">
-    <span class="pub-journal">Advanced Materials</span> · <strong>2023</strong> · 35 · 2210938
-  </span>
-  <span class="pub-title">Metal-Mediated DNA Nanotechnology in 3D: Structural Library by Templated Diffraction.</span>
-</div>
-
-<div class="publication">
-  Lu, B., … Canary, J.W., Sha, R., <span class="pub-me">Vecchioni, S.</span>†
-  <span class="pub-meta">
-    <span class="pub-journal">JACS</span> · <strong>2023</strong> · 145(32)
-  </span>
-  <span class="pub-title">Heterobimetallic Base Pair Programming in Designer 3D DNA Crystals.</span>
-</div>
-
-<div class="publication">
-  <span class="pub-me">Vecchioni, S.</span>† et al.
-  <span class="pub-meta">
-    <span class="pub-journal">Small</span> · <strong>2024</strong> · 21(3) · 2407604
+    <span class="pub-journal">Small</span> · <strong><a href="https://doi.org/10.1002/smll.202407604">2025</a></strong> · 21(3) · 2407604
   </span>
   <span class="pub-title">Silver(I)-Mediated 2D DNA Nanostructures.</span>
 </div>
 
 <div class="publication">
-  <span class="pub-me">Vecchioni, S.</span>*, Ohayon, Y.P.*, Hoshika, S., Benner, S.A., Sha, R.
+  <span class="pub-me">Vecchioni, S.</span>*, Ohayon, Y.P.*, Hernandez, C., Hoshika, S., Mao, C., Benner, S.A., Sha, R.
   <span class="pub-meta">
-    <span class="pub-journal">Nano Letters</span> · <strong>2024</strong> · 24(45)
+    <span class="pub-journal">Nano Letters</span> · <strong><a href="https://doi.org/10.1021/acs.nanolett.4c03949">2024</a></strong> · 24(45) · 14302–14306
   </span>
   <span class="pub-title">Six-Letter DNA Nanotechnology: Incorporation of Z-P Base Pairs into Self-Assembling 3D Crystals.</span>
 </div>
 
 <div class="publication">
-  De, A., … Anantram, M.P.†, <span class="pub-me">Vecchioni, S.</span>†
+  <span class="pub-me">Vecchioni, S.</span>*†, Lu, B.*, Livernois, W., Ohayon, Y.P., Yoder, J.B., Yang, C.-F., Woloszyn, K., Bernfeld, W., Anantram, M.P., Canary, J.W., Hendrickson, W.A., Rothschild, L.J., Mao, C., Wind, S.J., Seeman, N.C., Sha, R.†
   <span class="pub-meta">
-    <span class="pub-journal">Small</span> · <strong>2025</strong> · 21(25) · 2411518
+    <span class="pub-journal">Advanced Materials</span> · <strong><a href="https://doi.org/10.1002/adma.202210938">2023</a></strong> · 35(29) · 2210938
   </span>
-  <span class="pub-title">Transmetalation for DNA-based Molecular Electronics.</span>
+  <span class="pub-title">Metal-Mediated DNA Nanotechnology in 3D: Structural Library by Templated Diffraction.</span>
 </div>
 
 <div class="publication">
-  Liu, B., Lu, B., … <span class="pub-me">Vecchioni, S.</span>†, Hihath, J.†
+  Lu, B., Ohayon, Y.P., Woloszyn, K., Yang, C.-F., Yoder, J.B., Rothschild, L.J., Wind, S.J., Hendrickson, W.A., Mao, C., Seeman, N.C., Canary, J.W., Sha, R., <span class="pub-me">Vecchioni, S.</span>†
   <span class="pub-meta">
-    <span class="pub-journal">Matter</span> · <strong>2025</strong> · 102470
+    <span class="pub-journal">JACS</span> · <strong><a href="https://doi.org/10.1021/jacs.3c05478">2023</a></strong> · 145(32) · 17945–17953
   </span>
-  <span class="pub-title">Electrical Control of a Metal-Mediated DNA Memory.</span>
+  <span class="pub-title">Heterobimetallic Base Pair Programming in Designer 3D DNA Crystals.</span>
+</div>
+
+<div class="publication">
+  <span class="pub-me">Vecchioni, S.</span>, Sha, R., Seeman, N.C., Rothschild, L.J., Wind, S.J.
+  <span class="pub-meta">
+    <span class="pub-journal">J. Self-Assembly and Molecular Electronics</span> · <strong><a href="https://doi.org/10.13052/jsame2245-8824.2022.002">2022</a></strong> · 17–76
+  </span>
+  <span class="pub-title">DNA by Design: De novo Computational Framework for DNA Sequence Design and Nanotechnology.</span>
+</div>
+
+<div class="publication">
+  <span class="pub-me">Vecchioni, S.</span>*, Capece, M.C.*, Toomey, E.*, Nguyen, L., Ray, A., Greenberg, A., Fujishima, K., Urbina, J., Paulino-Lima, I.G., Pinheiro, V., Shih, J., Wessel, G., Wind, S.J., Rothschild, L.J.
+  <span class="pub-meta">
+    <span class="pub-journal">Scientific Reports</span> · <strong><a href="https://doi.org/10.1038/s41598-019-43316-1">2019</a></strong> · 9 · 6942
+  </span>
+  <span class="pub-title">Construction and Characterization of Metal Ion-Containing DNA Nanowires for Synthetic Biology and Nanotechnology.</span>
+</div>
+
+<div class="publication">
+  <span class="pub-me">Vecchioni, S.</span>, Capece, M.C., Toomey, E., Rothschild, L.J., Wind, S.J.
+  <span class="pub-meta">
+    <span class="pub-journal">J. Self-Assembly and Molecular Electronics</span> · <strong><a href="https://doi.org/10.13052/jsame2245-4551.6.004">2018</a></strong> · 6 · 61
+  </span>
+  <span class="pub-title">Methods of Synthesis and Characterization of Conductive DNA Nanowires Based on Metal Ion-Mediated Base Pairing for Single-Molecule Electronics.</span>
+</div>
+
+<div class="publication">
+  <span class="pub-me">Vecchioni, S.</span>, Wind, S.J.
+  <span class="pub-meta">
+    <span class="pub-journal">US Patent US20170294608A1</span> · <strong><a href="https://patents.justia.com/patent/20170294608">2017</a></strong>
+  </span>
+  <span class="pub-title">Self-Assembled, Electronically-Functional Nucleic Acid Nanostructures and Networks Based on the Use of Orthogonal Base Pairs.</span>
+</div>
+
+<div class="publication">
+  Toomey, E., Xu, J., <span class="pub-me">Vecchioni, S.</span>, Rothschild, L.J., Wind, S.J., Fernandes, G.E.
+  <span class="pub-meta">
+    <span class="pub-journal">J. Phys. Chem. C</span> · <strong><a href="https://doi.org/10.1021/acs.jpcc.5b11968">2016</a></strong> · 120(14) · 7804–7809
+  </span>
+  <span class="pub-title">Comparison of Canonical versus Silver(I)-Mediated Base-Pairing on Single Molecule Conductance in Polycytosine dsDNA.</span>
 </div>
