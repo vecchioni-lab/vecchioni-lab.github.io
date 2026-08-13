@@ -5,23 +5,24 @@ project:
 website:
   title: "Vecchioni Lab"
   navbar:
+    logo: assets/images/Logos/LogoA-transparent.png
     pinned: true
     collapse-below: xl
     left:
       - href: index.qmd
         text: Home
-      - href: research/index.qmd
-        text: Research      
+      - href: metalated-dna/index.qmd
+        text: "Metals+DNA"
+      - href: dna-topology/index.qmd
+        text: "DNA Topology"   
       - href: people.qmd
         text: People
       - href: publications.qmd
         text: Publications
-      - href: tools.qmd
-        text: Software & Tools
+      - href: resources.qmd
+        text: Resources
       - href: news.qmd
         text: News
-      - href: join.qmd
-        text: Join Us
       - href: contact.qmd
         text: Contact
   page-footer:

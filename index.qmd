@@ -16,7 +16,7 @@ page-layout: full
 
 We engineer nucleic acids into functional materials with bespoke electronic, photonic and quantum properties. 
 
-[Explore our research →](research/index.qmd){.hero-button}
+
 :::
 :::
 
@@ -67,7 +67,7 @@ We leverage the extreme precision of the double helix to engineer technologies a
 
 Our current projects expand into circuit design and quantum devices that leverage metallic DNA hybrids.
 
-[Explore this research →](research/molecular-electronics/index.qmd){.panel-link}
+
 
 :::
 
@@ -95,7 +95,7 @@ The first DNA transistor, which stored three memory states based on reversible m
 We employ a combination of molecular and metallic fluorophores to engineer tunable interactions between light and matter. The key advance is the use of topological enforcement from 3D DNA tiles in order to control templated metalation and fluorophore interactions, allowing for spatial control over molecular lightbulbs.
 
 
-[Explore this research →](research/nanophotonics/index.qmd){.panel-link}
+
 
 :::
 
@@ -124,7 +124,7 @@ Silver nanoclusters are formed in situ to generate novel optical materials.
  We further develop shape-encoded architectures, in which we harness the entropic nature of self-assembly to dive complex organization of DNA components at long range. In
 doing so, we will establish information thresholds and design rules for differentiation and morphogenesis.
 
-[Explore this research →](research/abiomorphogenesis/index.qmd){.panel-link}
+
 
 :::
 
@@ -153,7 +153,7 @@ Here we show a union of mirror image tiles, L- and D-DNA, programmed to interact
 Our work began as a summer internship at NASA when Simon proposed an E. coli radio <a href="https://2013.igem.org/Team:Stanford-Brown/Projects/BioWires"> (2013 Stanford-Brown iGEM)</a>. Since then, NASA participation has been deeply embedded in the work, and we now explore DNA as a viable space technology. We further explore the role that metalated nucleic acids had in the devleopment of early life on Earth, and ultimately enabling human space exploration.
 
 
-[Explore this research →](research/origins-of-life/index.qmd){.panel-link}
+
 
 :::
 

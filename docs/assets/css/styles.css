@@ -424,3 +424,23 @@ main#quarto-document-content {
   width: 50%;
   margin: 3rem auto;
 }
+
+.navbar-nav .nav-link {
+  white-space: nowrap;
+  padding-left: 0.7rem !important;
+  padding-right: 0.7rem !important;
+  font-size: 0.82rem;
+}
+
+.navbar-brand {
+  white-space: nowrap;
+  overflow: visible;
+  text-overflow: clip;
+  flex-shrink: 0;
+}
+
+.navbar-brand img {
+  max-height: none !important;
+  height: 72px !important;
+  width: auto !important;
+}
