@@ -1,0 +1,57 @@
+---
+title: "Resources"
+page-layout: full
+---
+
+::: {.research-page-hero}
+
+<p class="page-eyebrow">RESOURCES</p>
+
+# Tools and Resources
+
+Software, datasets, and links of varying usefulness.
+:::
+
+::: {.resources-page}
+
+## Software
+
+::: {.resource-item}
+### Linking Number and other Differential Geometry
+
+Linking number calculator for Matlab, which processes PDB files of DNA tiles. It was developed for our paper on tertiary chirality in 2023: [Janowski, J. et al, “Engineering Tertiary Chirality in Helical Biopolymers.” PNAS 121(19), e2321992121 (2024).](https://doi.org/10.1073/pnas.2321992121).
+
+<span class="resource-meta">Version 1.0 · macOS / Windows / Python</span>
+
+[Download ZIP](assets/software/Differential-Geometry-DNA.zip){.resource-link}
+:::
+
+
+
+## External resources
+
+::: {.resource-item}
+### Protein Databank (PDB)
+
+Biomolecular structure repository with more than just proteins.
+
+[Visit resource](https://www.rcsb.org/){.resource-link}
+:::
+
+::: {.resource-item}
+### PDB Molecule of the Month
+
+Curated examples of molecular families, including the RNA cages linked here.
+
+[Visit resource](https://pdb101.rcsb.org/motm/313){.resource-link}
+:::
+
+::: {.resource-item}
+### Web 3X DNA 
+
+Structural analysis of nucleic acids, mostly functional.
+
+[Visit resource](https://web.x3dna-dssr.org/analyze){.resource-link}
+:::
+
+:::

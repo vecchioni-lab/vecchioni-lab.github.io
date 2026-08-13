@@ -1,6 +1,38 @@
 ---
 title: "Contact"
-subtitle: "Vecchioni Lab · Imperial College London"
+page-layout: full
 ---
 
-Add the laboratory address, email, institutional profile, and map details here.
+::: {.research-page-hero}
+
+<p class="page-eyebrow">CONTACT</p>
+
+# Get in touch
+
+For research, collaboration, student, or media enquiries, please contact the lab directly.
+
+:::
+
+::: {.contact-page}
+
+::: {.contact-block}
+
+## Vecchioni Lab
+
+Department of Life Sciences  
+Imperial College London  
+South Kensington, London
+
+[s.vecchioni@imperial.ac.uk](mailto:YOUR-EMAIL@imperial.ac.uk){.contact-email}
+
+:::
+
+::: {.contact-note}
+
+## Interested in joining?
+
+We're always looking for creative, enthusiastic colleagues and members. Reach out if you're interested in our work, and we can discuss openings or applications based on your situation.
+
+:::
+
+:::

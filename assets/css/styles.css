@@ -643,3 +643,167 @@ main#quarto-document-content {
   color: var(--muted);
   font-size: 0.82rem;
 }
+
+/* =========================================================
+   PEOPLE
+   ========================================================= */
+
+.pi-profile {
+  display: grid;
+  grid-template-columns: 0.8fr 1.2fr;
+  gap: 4rem;
+  align-items: start;
+
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: 1rem 2rem 7rem;
+}
+
+.pi-profile-image {
+  min-height: 420px;
+  border-top: 1px solid var(--border);
+}
+
+.pi-profile-text {
+  max-width: 650px;
+}
+
+.pi-profile-text h2 {
+  margin: 0 0 1rem;
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 2rem;
+  font-weight: 400;
+}
+
+.pi-profile-text p {
+  color: var(--muted);
+  text-align: justify;
+}
+
+.pi-profile-text a {
+  color: var(--accent);
+  text-decoration: none;
+  border-bottom: 1px solid rgba(128, 198, 216, 0.4);
+}
+
+@media (max-width: 900px) {
+  .pi-profile {
+    grid-template-columns: 1fr;
+    gap: 2rem;
+    padding: 1rem 1.4rem 5rem;
+  }
+}
+
+/* =========================================================
+   CONTACT
+   ========================================================= */
+
+.contact-page {
+  display: grid;
+  grid-template-columns: 0.8fr 1.2fr;
+  gap: 5rem;
+
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: 1rem 2rem 7rem;
+
+  border-top: 1px solid var(--border);
+}
+
+.contact-block,
+.contact-note {
+  padding-top: 2.5rem;
+}
+
+.contact-page h2 {
+  margin: 0 0 1.2rem;
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 2rem;
+  font-weight: 400;
+}
+
+.contact-page p {
+  color: var(--muted);
+}
+
+.contact-email {
+  display: inline-block;
+  margin-top: 1.2rem;
+  color: var(--accent);
+  text-decoration: none;
+  border-bottom: 1px solid rgba(128, 198, 216, 0.4);
+}
+
+@media (max-width: 900px) {
+  .contact-page {
+    grid-template-columns: 1fr;
+    gap: 1rem;
+    padding: 1rem 1.4rem 5rem;
+  }
+}
+
+/* =========================================================
+   RESOURCES
+   ========================================================= */
+
+.resources-page {
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: 1rem 2rem 7rem;
+}
+
+.resources-page > h2 {
+  margin: 4rem 0 1.5rem;
+  padding-bottom: 0.8rem;
+  border-bottom: 1px solid var(--border);
+
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 2rem;
+  font-weight: 400;
+}
+
+.resource-item {
+  padding: 1.8rem 0 2rem;
+  border-bottom: 1px solid var(--border);
+}
+
+.resource-item h3 {
+  margin: 0 0 0.6rem;
+
+  color: var(--text);
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 1.45rem;
+  font-weight: 400;
+}
+
+.resource-item p {
+  max-width: 760px;
+  margin-bottom: 0.7rem;
+  color: var(--muted);
+}
+
+.resource-meta {
+  display: block;
+  margin: 0.4rem 0 0.8rem;
+
+  color: var(--muted);
+  font-size: 0.8rem;
+  letter-spacing: 0.04em;
+}
+
+.resource-link {
+  color: var(--accent);
+  text-decoration: none;
+  border-bottom: 1px solid rgba(128, 198, 216, 0.4);
+}
+
+.resource-link:hover {
+  color: var(--text);
+  border-bottom-color: var(--text);
+}
+
+@media (max-width: 900px) {
+  .resources-page {
+    padding: 1rem 1.4rem 5rem;
+  }
+}

@@ -1,24 +1,36 @@
 ---
 title: "People"
-subtitle: "The Vecchioni Lab team"
+page-layout: full
 ---
 
-## Principal investigator
+::: {.research-page-hero}
 
-Add photograph, biography, links, and contact details here.
+<p class="page-eyebrow">PEOPLE</p>
 
-## Researchers
+# Dr. Simon Vecchioni
 
-Duplicate a simple person block for each member:
+Principal Investigator · Imperial College London
 
-::: {.person-card}
-### Name
-
-**Role**
-
-One or two sentences about research interests.
 :::
 
-## Alumni
+::: {.pi-profile}
 
-Add former members here as the group grows.
+::: {.pi-profile-image}
+![](assets/images/people_photos/Simon.png)
+:::
+
+::: {.pi-profile-text}
+
+## About
+
+Simon Vecchioni is a researcher working in DNA nanoscience, with the goal of using DNA to solve challenges in fundamental and applied physics. As an undergraduate intern at NASA, he developed a team project to teach bacteria to communicate using radio waves. The verdict is still out whether that's possible, but he's discovered a bundle of interesting things in the intervening time. Someday he hopes to finish his undergraduate internship.
+
+## Links
+
+
+[Google Scholar](https://scholar.google.com/citations?user=lB8aIXUAAAAJ&hl=en&oi=ao) ·
+[ORCID](https://orcid.org/0000-0001-8243-650X)
+
+:::
+
+:::
