@@ -4,27 +4,27 @@ project:
 
 website:
   title: "Vecchioni Lab"
+
   navbar:
     logo: assets/images/Logos/LogoA-transparent.png
     pinned: true
     collapse-below: xl
+
     left:
-      - href: index.qmd
-        text: Home
       - href: metalated-dna/index.qmd
-        text: "Metals+DNA"
+        text: "Metalated DNA"
       - href: dna-topology/index.qmd
-        text: "DNA Topology"   
+        text: "DNA Topology"
       - href: people.qmd
-        text: People
+        text: "People"
       - href: publications.qmd
-        text: Publications
+        text: "Publications"
       - href: resources.qmd
-        text: Resources
+        text: "Resources"
       - href: news.qmd
-        text: News
+        text: "News"
       - href: contact.qmd
-        text: Contact
+        text: "Contact"
   page-footer:
     left: "© Vecchioni Lab"
     right: "Imperial College London"
