@@ -47,7 +47,7 @@ Curated examples of molecular families, including the RNA cages linked here.
 :::
 
 ::: {.resource-item}
-### Web 3X DNA 
+### Web 3DNA 
 
 Structural analysis of nucleic acids, mostly functional.
 

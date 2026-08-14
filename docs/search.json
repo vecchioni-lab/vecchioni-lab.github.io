@@ -18,7 +18,7 @@
     "href": "resources.html#external-resources",
     "title": "Resources",
     "section": "External resources",
-    "text": "External resources\n\nProtein Databank (PDB)\nBiomolecular structure repository with more than just proteins.\nVisit resource\n\n\nPDB Molecule of the Month\nCurated examples of molecular families, including the RNA cages linked here.\nVisit resource\n\n\nWeb 3X DNA\nStructural analysis of nucleic acids, mostly functional.\nVisit resource"
+    "text": "External resources\n\nProtein Databank (PDB)\nBiomolecular structure repository with more than just proteins.\nVisit resource\n\n\nPDB Molecule of the Month\nCurated examples of molecular families, including the RNA cages linked here.\nVisit resource\n\n\nWeb 3DNA\nStructural analysis of nucleic acids, mostly functional.\nVisit resource"
   },
   {
     "objectID": "publications.html",
@@ -88,21 +88,21 @@
     "href": "research/topology/index.html#overview",
     "title": "DNA Topology",
     "section": "Overview",
-    "text": "Overview\nWith origins in the lab of the late Ned Seeman at NYU, structural DNA nanotechnology employs rigid, branched DNA objects – tiles – to programmably tesselate into 3d matter. The original motifs were accidental, recovered from early entries in the Protein Databank (PDB) and unknown to the field at large. The first rationally-designed 3D DNA crystal was developed by Chengde Mao and Ned Seeman, published in Nature in 2009. This tile, the tensegrity triangle, represented both the first and one of the last examples of a bottom-up, rationally-designed motif. Since that time, iterative changes to working designs, coupled with high-throughput screening has yielded a vast array of new motifs (see reviews and selected publications below).\nThe founding idealogy was to use self-assembled crystals to solve the biomolecular structure of guest proteins. The key feature of Ned’s lattices were their porous nature–consisting of &gt;90% water, they can be packed to the gills with guest molecules. This also proved a fundmaental challenge in diffraction, yielding low resolutions that precluded good structural characterizations.\nRecent breakthroughs at NYU and in the field have enabled atomic-level detail from self-assembled crystals, re-invigorating the structural search for motifs, guests, and applciations."
+    "text": "Overview\nWith origins in the lab of the late Ned Seeman at NYU, structural DNA nanotechnology employs rigid, branched DNA objects – tiles – to programmably tessellate into 3D matter. The original motifs were accidental, recovered from early entries in the Protein Databank (PDB) and unknown to the field at large. The first rationally-designed 3D DNA crystal was developed by Chengde Mao and Ned Seeman, published in Nature in 2009. This tile, the tensegrity triangle, represented both the first and one of the last examples of a bottom-up, rationally-designed motif. Since that time, iterative changes to working designs, coupled with high-throughput screening have yielded a vast array of new motifs (see reviews and selected publications below).\nThe founding ideology was to use self-assembled crystals to solve the biomolecular structure of guest proteins. The key feature of Ned’s lattices was their porous nature–consisting of &gt;90% water, they can be packed to the gills with guest molecules. This also proved a fundamental challenge in diffraction, yielding low resolutions that precluded good structural characterizations.\nRecent breakthroughs at NYU and in the field have enabled atomic-level detail from self-assembled crystals, re-invigorating the structural search for motifs, guests, and applications."
   },
   {
     "objectID": "research/topology/index.html#topological-design-in-the-lab",
     "href": "research/topology/index.html#topological-design-in-the-lab",
     "title": "DNA Topology",
     "section": "Topological Design in the Lab",
-    "text": "Topological Design in the Lab\nIn the Lab, we engage in iterative design and screening to develop new motifs, both predicted and unknown. Our members will elarn the tools of molecualr design and analysis, and thereby engage in the disocvery of new materials.\nWhile Simon was at NYU, he and the team discovered rules about heriarchical chirality, reconfigurable lattices, and augmented, asymmetric cavities. At Imperial, the lab will seek to add to this material deisgn language, and to form deep connecitons with metalation and materials science applications.\n\n\n\nTile-based self-assembly using sticky-ended triangle motifs. Woloszyn et al., Nature Communications (2026), 17, 3136."
+    "text": "Topological Design in the Lab\nIn the Lab, we engage in iterative design and screening to develop new motifs, both predicted and unknown. Our members will learn the tools of molecular design and analysis, and thereby engage in the discovery of new materials.\nWhile Simon was at NYU, he and the team discovered rules about heirarchical chirality, reconfigurable lattices, and augmented, asymmetric cavities. At Imperial, the lab will seek to add to this material design language, and to form deep connections with metalation and materials science applications.\n\n\n\nTile-based self-assembly using sticky-ended triangle motifs. Woloszyn et al., Nature Communications (2026), 17, 3136."
   },
   {
     "objectID": "research/topology/index.html#data-curation",
     "href": "research/topology/index.html#data-curation",
     "title": "DNA Topology",
     "section": "Data Curation",
-    "text": "Data Curation\nAll motifs developed are likely to diffract x-rays, enabling deposition in the PDB (250+ examples and counting). Part of our work resides on building a new structural database that can understand and predict the undlerlying topology of these materials, and to mine the PDB for “lost” entries."
+    "text": "Data Curation\nAll motifs developed are likely to diffract x-rays, enabling deposition in the PDB (250+ examples and counting). Part of our work involves building a new structural database that can understand and predict the underlying topology of these materials, and to mine the PDB for “lost” entries."
   },
   {
     "objectID": "research/topology/index.html#shape-encoding",
@@ -137,7 +137,7 @@
     "href": "research/mmDNA/index.html#research-workflow",
     "title": "A Metal Design Language",
     "section": "Research Workflow",
-    "text": "Research Workflow\n\nMetal-mediated base pairing\nWe first use self-assembling crystals (i.e. the tensegrity triangle) as a high-throughput diffraciton platform to screen novel metalated DNA interactions. Using structural biology tools, we build a structural database that can be used for design, iteration, and experimentation.\n\n\nResponsive Coordination\nOnce molecular structures are resolved, we work to identify the criteria for metalation: pH, buffer, co-metalation, etc. We then find ways to dynamically perturb these pairs, yielding techniological outputs.\n\n\n\nReconfigurable metalation using DNA crystallography. De et al, Small (2026) 21, 2411518.\n\n\n\n\nLanguage development\nFinally, we aim to develop a coding language that reads metals as an input to store information. We further aim to expand the library of metals inside the double helix to enable new functions."
+    "text": "Research Workflow\n\nMetal-mediated base pairing\nWe first use self-assembling crystals (i.e. the tensegrity triangle) as a high-throughput diffraction platform to screen novel metalated DNA interactions. Using structural biology tools, we build a structural database that can be used for design, iteration, and experimentation.\n\n\nResponsive Coordination\nOnce molecular structures are resolved, we work to identify the criteria for metalation: pH, buffer, co-metalation, etc. We then find ways to dynamically perturb these pairs, yielding technological outputs.\n\n\n\nReconfigurable metalation using DNA crystallography. De et al, Small (2026) 21, 2411518.\n\n\n\n\nLanguage development\nFinally, we aim to develop a coding language that reads metals as an input to store information. We further aim to expand the library of metals inside the double helix to enable new functions."
   },
   {
     "objectID": "research/mmDNA/index.html#selected-work-from-the-lab",
@@ -249,14 +249,14 @@
     "href": "index.html#abiomorphogenesis",
     "title": "Vecchioni Lab",
     "section": "(A)Biomorphogenesis",
-    "text": "(A)Biomorphogenesis\nWe further develop shape-encoded architectures, in which we harness the entropic nature of self-assembly to dive complex organization of DNA components at long range. In doing so, we will establish information thresholds and design rules for differentiation and morphogenesis."
+    "text": "(A)Biomorphogenesis\nWe further develop shape-encoded architectures, in which we harness the entropic nature of self-assembly to drive complex organization of DNA components at long range. In doing so, we will establish information thresholds and design rules for differentiation and morphogenesis."
   },
   {
     "objectID": "index.html#origins-of-life-and-astrobiology",
     "href": "index.html#origins-of-life-and-astrobiology",
     "title": "Vecchioni Lab",
     "section": "Origins of Life and Astrobiology",
-    "text": "Origins of Life and Astrobiology\nOur work began as a summer internship at NASA when Simon proposed an E. coli radio  (2013 Stanford-Brown iGEM). Since then, NASA participation has been deeply embedded in the work, and we now explore DNA as a viable space technology. We further explore the role that metalated nucleic acids had in the devleopment of early life on Earth, and ultimately enabling human space exploration."
+    "text": "Origins of Life and Astrobiology\nOur work began as a summer internship at NASA when Simon proposed an E. coli radio  (2013 Stanford-Brown iGEM). Since then, NASA participation has been deeply embedded in the work, and we now explore DNA as a viable space technology. We further explore the role that metalated nucleic acids played in the development of early life on Earth, and ultimately enabling human space exploration."
   },
   {
     "objectID": "index.html#building-community",

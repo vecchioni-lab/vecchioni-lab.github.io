@@ -47,11 +47,11 @@ ions in 3D architectures using the rapid crystallographic screening of orthogona
 
 ### Metal-mediated base pairing
 
-We first use self-assembling crystals (i.e. the tensegrity triangle) as a high-throughput diffraciton platform to screen novel metalated DNA interactions. Using structural biology tools, we build a structural database that can be used for design, iteration, and experimentation.
+We first use self-assembling crystals (i.e. the tensegrity triangle) as a high-throughput diffraction platform to screen novel metalated DNA interactions. Using structural biology tools, we build a structural database that can be used for design, iteration, and experimentation.
 
 ### Responsive Coordination
 
-Once molecular structures are resolved, we work to identify the criteria for metalation: pH, buffer, co-metalation, etc. We then find ways to dynamically perturb these pairs, yielding techniological outputs.
+Once molecular structures are resolved, we work to identify the criteria for metalation: pH, buffer, co-metalation, etc. We then find ways to dynamically perturb these pairs, yielding technological outputs.
 
 ::: {.research-page-image .secondary-image}
 
