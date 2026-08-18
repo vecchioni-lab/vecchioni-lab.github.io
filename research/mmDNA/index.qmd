@@ -16,7 +16,7 @@ We develop a bioinorganic programming language in which metal coordination is us
 
 ::: {.research-page-image}
 
-![](../../assets/images/research/tensegrity.png)
+![](../../assets/images/research/tensegrity2.png)
 
 <p class="panel-caption">
 Workflow of developing metal-mediated DNA chemistry using self-assembling crystals.

@@ -498,7 +498,7 @@ main#quarto-document-content {
     line-height: 0 !important;
     color: transparent !important;
     overflow: hidden !important;
-    background: url("../images/Logos/LogoC.png") center / contain no-repeat;
+    background: url("../images/Logos/LogoC_transparent.png") center / contain no-repeat;
   }
 
   .navbar-brand > *,

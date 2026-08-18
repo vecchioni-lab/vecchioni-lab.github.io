@@ -38,7 +38,7 @@ The overarching theme of the DNA Lab is to develop a bioinorganic programming la
 
 Using high-throughput X-ray crystallography, iterative design, and collaboration with chemists and physicists, we aim to make complex molecules, such as the 3D tile shown here, possible in the near future.
 
-[Explore this research →](research/metal-design-language/index.qmd){.panel-link}
+[Explore this research →](research/mmDNA/index.qmd){.panel-link}
 
 :::
 
