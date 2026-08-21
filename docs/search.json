@@ -74,7 +74,7 @@
     "href": "research/index.html",
     "title": "Research",
     "section": "",
-    "text": "Each research area below is a separate modular folder. Edit its index.qmd metadata to change the title, subtitle, summary, image, or ordering.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nProgrammable Hybrid Materials\n\n\nTranslating molecular information into inorganic structure\n\n\nDNA-directed mineralization, replication, coating, and fabrication of hybrid materials.\n\n\n\n\n\n\n\n\n\n\n\n\nOrigins and Catalysis\n\n\nMetal–nucleic-acid interactions before modern biology\n\n\nExploring how simple nucleic-acid and metal assemblies could support structure and catalysis.\n\n\n\n\n\n\n\n\n\n\nA Metal Design Language\n\n\nRemodeling the double helix atom by atom\n\n\n\n\n\n\n\n\n\n\n\n\n\nDNA Topology\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Programmable Hybrid Materials\n\n\nTranslating molecular information into inorganic structure\n\n\nDNA-directed mineralization, replication, coating, and fabrication of hybrid materials.\n\n\n\n\n\n\n\n\n\n\n\n\nOrigins and Catalysis\n\n\nMetal–nucleic-acid interactions before modern biology\n\n\nExploring how simple nucleic-acid and metal assemblies could support structure and catalysis.\n\n\n\n\n\n\n\n\n\n\nA Metal Design Language\n\n\nRemodeling the double helix atom by atom\n\n\n\n\n\n\n\n\n\n\n\n\n\nDNA Topology\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "research/topology/index.html",
@@ -256,7 +256,7 @@
     "href": "index.html#origins-of-life-and-astrobiology",
     "title": "Vecchioni Lab",
     "section": "Origins of Life and Astrobiology",
-    "text": "Origins of Life and Astrobiology\nOur work began as a summer internship at NASA when Simon proposed an E. coli radio  (2013 Stanford-Brown iGEM). Since then, NASA participation has been deeply embedded in the work, and we now explore DNA as a viable space technology. We further explore the role that metalated nucleic acids played in the development of early life on Earth, and ultimately enabling human space exploration."
+    "text": "Origins of Life and Astrobiology\nOur work began as a summer internship at NASA when Simon proposed an E. coli radio  (2013 Stanford-Brown iGEM). Since then, we have collaborated actively with NASA, who have been deeply embedded in the work, and we now explore DNA as a viable space technology. We further explore the role that metalated nucleic acids played in the development of early life on Earth, and ultimately enabling human space exploration."
   },
   {
     "objectID": "index.html#building-community",
