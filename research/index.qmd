@@ -13,4 +13,3 @@ listing:
   sort-ui: false
 ---
 
-Each research area below is a separate modular folder. Edit its `index.qmd` metadata to change the title, subtitle, summary, image, or ordering.
